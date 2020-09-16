@@ -1,0 +1,1443 @@
+{
+	"availabilityId": "c6017986e848422993dc5a322444dad8",
+	"hotelResult": {
+		"hotelDetails": [
+			{
+				"seq": 0,
+				"hotelDetail": {
+					"hotelId": 545660,
+					"hotelCode": "H545660",
+					"mapHotelCode": "H545660",
+					"hotelScore": 0,
+					"hotelName": "Apartments Wenceslas Square",
+					"locationName": "Jakarta",
+					"cityCode": "CI000152",
+					"cityName": "Jakarta",
+					"countryCode": "CO0094",
+					"countryName": "Indonesia",
+					"roomCount": 20,
+					"address1": "Jl. Penjernihan II / No. 5. Bendungan Hilir - Central Jakarta",
+					"address2": "",
+					"website": "https://www.agoda.com/partners/partnersearch.aspx?hid=297399",
+					"description": "LeGreen Suite Penjernihan is a popular choice amongst travelers in Jakarta, whether exploring or just passing through. The hotel offers a high standard of service and amenities to suit the individual needs of all travelers. Take advantage of the hotel's free Wi-Fi in all rooms, 24-hour front desk, Wi-Fi in public areas, car park, room service. Designed for comfort, selected guestrooms offer television LCD/plasma screen, mirror, slippers, towels, closet to ensure a restful night. The hotel offers various recreational opportunities. For reliable service and professional staff, LeGreen Suite Penjernihan caters to your needs.",
+					"longDescription": "<p><b>Description</b><br/>LeGreen Suite Penjernihan is a popular choice amongst travelers in Jakarta, whether exploring or just passing through. The hotel offers a high standard of service and amenities to suit the individual needs of all travelers. Take advantage of the hotel's free Wi-Fi in all rooms, 24-hour front desk, Wi-Fi in public areas, car park, room service. Designed for comfort, selected guestrooms offer television LCD/plasma screen, mirror, slippers, towels, closet to ensure a restful night. The hotel offers various recreational opportunities. For reliable service and professional staff, LeGreen Suite Penjernihan caters to your needs.<br/><br/></p>",
+					"facility": [
+						{
+							"facility_name": "24-hour front desk",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Service",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park - charges apply",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park - free",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park - nearby",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park - nearby,charges apply",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park - nearby,free",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park - on site",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park - on site,charges apply",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park - on site,free",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park free of charge",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "Designated smoking areas",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Hotel Facility",
+							"extraFee": false
+						},
+						{
+							"facility_name": "Garden",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Hotel Facility",
+							"extraFee": false
+						},
+						{
+							"facility_name": "Room service",
+							"type": "RoomAmenity",
+							"subtype": "RoomAmenity",
+							"category": "Service",
+							"extraFee": false
+						},
+						{
+							"facility_name": "satellite/cable TV",
+							"type": "RoomAmenity",
+							"subtype": "RoomAmenity",
+							"category": "Television",
+							"extraFee": false
+						},
+						{
+							"facility_name": "Shared/communal kitchen",
+							"type": "RoomAmenity",
+							"subtype": "RoomAmenity",
+							"category": "Kitchen Facility",
+							"extraFee": false
+						},
+						{
+							"facility_name": "smoking policy  non-smoking available",
+							"type": "Policy",
+							"subtype": "Other",
+							"category": "Hotel Facility",
+							"extraFee": false
+						},
+						{
+							"facility_name": "Television",
+							"type": "RoomAmenity",
+							"subtype": "RoomAmenity",
+							"category": "Television",
+							"extraFee": false
+						},
+						{
+							"facility_name": "toiletries",
+							"type": "RoomAmenity",
+							"subtype": "RoomAmenity",
+							"category": "Bathing Facility",
+							"extraFee": false
+						}
+					],
+					"rating": 1.0,
+					"categoryDescription": "Guesthouse/bed and breakfast",
+					"currency": "IDR",
+					"internalCode": "AG",
+					"roomsCategory": [
+						{
+							"newPrice": 0.0,
+							"code": "AG.c.c171e19f-8dec-4ce9-b7b5-033d6ce6960b.7302577.6755.f2d4bafb-81b7-badc-3f2e-e6fa60f3cc1d.430192594457630000.1.B5081BC61D1A.165823568",
+							"name": "Green Room",
+							"rateType": "B2C",
+							"isRefundable": false,
+							"totalDiscount": 63140.0,
+							"totalDiscountWithoutCode": 0.0,
+							"totalDiscountWithoutCodeIDR": 0.0,
+							"totalNightPrice": 179458.0,
+							"netPrice": 217145.0,
+							"grossPrice": 217145.0,
+							"priceDifference": 0.0,
+							"commPrice": 0.0,
+							"totalAdditionalFee": 37687.0,
+							"bfType": "Room Only",
+							"bfTypeName": "Room Only",
+							"roomType": {
+								"sequence": 0,
+								"typeCode": "3210138",
+								"typeDescription": "Availability of the bed type can only be confirmed on check in",
+								"reqBedChild": false,
+								"roomCount": 1,
+								"maxOccupancy": 1,
+								"adultCount": 1,
+								"childCount": 0,
+								"totalPrice": 217145.0,
+								"totalDiscount": 63140.0,
+								"totalNightPrice": 179458.0,
+								"avgNightPrice": 179458.0,
+								"nettPrice": 179458.0,
+								"commPrice": 0.0,
+								"grossPrice": 217145.0,
+								"grossPriceIDR": 0.0,
+								"totalPriceIDR": 0.0,
+								"totalDiscountIDR": 0.0,
+								"totalNightPriceIDR": 0.0,
+								"avgNightPriceIDR": 0.0,
+								"nettPriceIDR": 0.0,
+								"commPriceIDR": 0.0,
+								"rate": [
+									{
+										"offset": 1,
+										"nightPrice": 179458.0,
+										"roomRate": [
+											{
+												"no": 1,
+												"adultCount": 1,
+												"childCount": 0,
+												"childAge1": 0,
+												"childAge2": 0,
+												"roomPrice": 179458.0,
+												"minstayPrice": 0.0,
+												"compulsoryPrice": 0.0,
+												"supplementPrice": 0.0,
+												"promotionBfPrice": 0.0,
+												"earlyBirdDiscount": 0.0,
+												"commissionPrice": 0.0,
+												"roomPriceIDR": 0.0,
+												"minstayPriceIDR": 0.0,
+												"compulsoryPriceIDR": 0.0,
+												"supplementPriceIDR": 0.0,
+												"promotionBfPriceIDR": 0.0,
+												"earlyBirdDiscountIDR": 0.0,
+												"commissionPriceIDR": 0.0
+											}
+										],
+										"roomRateInfo": {
+											"childMinAge": 0,
+											"childMaxAge": 0,
+											"minStayDay": 0,
+											"minStayType": "NONE",
+											"minStayRate": 0.0,
+											"promotionName": "Last Minute Special.  Price includes 20% discount!",
+											"promotionValue": false
+										},
+										"nightPriceIDR": 0.0
+									}
+								],
+								"pointRewardCount": 0
+							},
+							"cancellationPolicies": [
+								{
+									"exCancelDays": 999,
+									"cancelDateFrom": "09/15/2020 19:30:17",
+									"cancelDateTo": "12/31/9999 23:59:59",
+									"chargeType": "Percent",
+									"chargeRate": 100.0,
+									"description": "This rate is non-refundable and cannot be changed or cancelled. If you do choose to change or cancel this booking you will not be refunded any of the payment."
+								}
+							],
+							"roomImage": [
+								"http://pix1.agoda.net/hotelimages/297/297399/297399_16032214470040980351.jpg?s=312x"
+							],
+							"additionalFees": [
+								{ "type": "Fees", "amount": 15655.0, "isTotal": true },
+								{ "type": "Tax", "amount": 22032.0, "isTotal": true }
+							],
+							"facility": [
+								{
+									"facility_name": "air conditioning",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Air Conditioning",
+									"extraFee": false
+								},
+								{
+									"facility_name": "closet",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "desk",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Business Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "flat screen television",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Entertainment",
+									"extraFee": false
+								},
+								{
+									"facility_name": "internet access  wireless",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Internet Access",
+									"extraFee": false
+								},
+								{
+									"facility_name": "internet access  wireless (complimentary)",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Internet Access",
+									"extraFee": false
+								},
+								{
+									"facility_name": "mirror",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "satellite/cable TV",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Television",
+									"extraFee": false
+								},
+								{
+									"facility_name": "shower",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Bathing Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "slippers",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "smoking policy  non-smoking available",
+									"type": "Policy",
+									"subtype": "Other",
+									"category": "Hotel Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "smoking policy  smoking available",
+									"type": "Policy",
+									"subtype": "Other",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "telephone",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "television",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Television",
+									"extraFee": false
+								},
+								{
+									"facility_name": "toiletries",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Bathing Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "towels",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Bathing Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "wake-up service",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Service",
+									"extraFee": false
+								}
+							],
+							"grossPriceIDR": 0.0,
+							"totalDiscountIDR": 0.0,
+							"totalNightPriceIDR": 0.0,
+							"netPriceIDR": 0.0,
+							"commPriceIDR": 0.0,
+							"totalAdditionalFeeIDR": 0.0,
+							"pointRewardCount": 0,
+							"remainingRooms": 9,
+							"normalBeddings": 1,
+							"extraBeds": 0
+						},
+						{
+							"newPrice": 0.0,
+							"code": "AG.c.0e900859-983a-4520-97c1-b6e38c5b3f4d.3296349.6755.f62258e7-5eb8-0d97-7991-d99d808e7a8c.430192594457630000.2.B50B19C71D1E.165823568",
+							"name": "Special Promotion",
+							"rateType": "B2C",
+							"isRefundable": false,
+							"totalDiscount": 65436.0,
+							"totalDiscountWithoutCode": 0.0,
+							"totalDiscountWithoutCodeIDR": 0.0,
+							"totalNightPrice": 185984.0,
+							"netPrice": 225041.0,
+							"grossPrice": 225041.0,
+							"priceDifference": 0.0,
+							"commPrice": 0.0,
+							"totalAdditionalFee": 39057.0,
+							"bfType": "Room Only",
+							"bfTypeName": "Room Only",
+							"roomType": {
+								"sequence": 0,
+								"typeCode": "3210137",
+								"typeDescription": "Availability of the bed type can only be confirmed on check in",
+								"reqBedChild": false,
+								"roomCount": 1,
+								"maxOccupancy": 1,
+								"adultCount": 1,
+								"childCount": 0,
+								"totalPrice": 225041.0,
+								"totalDiscount": 65436.0,
+								"totalNightPrice": 185984.0,
+								"avgNightPrice": 185984.0,
+								"nettPrice": 185984.0,
+								"commPrice": 0.0,
+								"grossPrice": 225041.0,
+								"grossPriceIDR": 0.0,
+								"totalPriceIDR": 0.0,
+								"totalDiscountIDR": 0.0,
+								"totalNightPriceIDR": 0.0,
+								"avgNightPriceIDR": 0.0,
+								"nettPriceIDR": 0.0,
+								"commPriceIDR": 0.0,
+								"rate": [
+									{
+										"offset": 1,
+										"nightPrice": 185984.0,
+										"roomRate": [
+											{
+												"no": 1,
+												"adultCount": 1,
+												"childCount": 0,
+												"childAge1": 0,
+												"childAge2": 0,
+												"roomPrice": 185984.0,
+												"minstayPrice": 0.0,
+												"compulsoryPrice": 0.0,
+												"supplementPrice": 0.0,
+												"promotionBfPrice": 0.0,
+												"earlyBirdDiscount": 0.0,
+												"commissionPrice": 0.0,
+												"roomPriceIDR": 0.0,
+												"minstayPriceIDR": 0.0,
+												"compulsoryPriceIDR": 0.0,
+												"supplementPriceIDR": 0.0,
+												"promotionBfPriceIDR": 0.0,
+												"earlyBirdDiscountIDR": 0.0,
+												"commissionPriceIDR": 0.0
+											}
+										],
+										"roomRateInfo": {
+											"childMinAge": 0,
+											"childMaxAge": 0,
+											"minStayDay": 0,
+											"minStayType": "NONE",
+											"minStayRate": 0.0,
+											"promotionName": "Last Minute Special.  Price includes 20% discount!",
+											"promotionValue": false
+										},
+										"nightPriceIDR": 0.0
+									}
+								],
+								"pointRewardCount": 0
+							},
+							"cancellationPolicies": [
+								{
+									"exCancelDays": 999,
+									"cancelDateFrom": "09/15/2020 19:30:17",
+									"cancelDateTo": "12/31/9999 23:59:59",
+									"chargeType": "Percent",
+									"chargeRate": 100.0,
+									"description": "This rate is non-refundable and cannot be changed or cancelled. If you do choose to change or cancel this booking you will not be refunded any of the payment."
+								}
+							],
+							"roomImage": [
+								"http://pix4.agoda.net/hotelimages/297/297399/297399_13122412570017962059.jpg?s=312x"
+							],
+							"additionalFees": [
+								{ "type": "Fees", "amount": 16224.0, "isTotal": true },
+								{ "type": "Tax", "amount": 22833.0, "isTotal": true }
+							],
+							"facility": [
+								{
+									"facility_name": "air conditioning",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Air Conditioning",
+									"extraFee": false
+								},
+								{
+									"facility_name": "balcony/terrace",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "complimentary bottled water",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Food & Drink",
+									"extraFee": false
+								},
+								{
+									"facility_name": "desk",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Business Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "flat screen television",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Entertainment",
+									"extraFee": false
+								},
+								{
+									"facility_name": "hair dryer",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "microwave",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Kitchen Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "satellite/cable TV",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Television",
+									"extraFee": false
+								},
+								{
+									"facility_name": "seating area",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "separate dining area",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "shower",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Bathing Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "smoking policy  non-smoking available",
+									"type": "Policy",
+									"subtype": "Other",
+									"category": "Hotel Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "smoking policy  smoking available",
+									"type": "Policy",
+									"subtype": "Other",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "telephone",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "television",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Television",
+									"extraFee": false
+								},
+								{
+									"facility_name": "toiletries",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Bathing Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "wake-up service",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Service",
+									"extraFee": false
+								}
+							],
+							"grossPriceIDR": 0.0,
+							"totalDiscountIDR": 0.0,
+							"totalNightPriceIDR": 0.0,
+							"netPriceIDR": 0.0,
+							"commPriceIDR": 0.0,
+							"totalAdditionalFeeIDR": 0.0,
+							"pointRewardCount": 0,
+							"remainingRooms": 6,
+							"normalBeddings": 1,
+							"extraBeds": 0
+						},
+						{
+							"newPrice": 0.0,
+							"code": "AG.c.cb1074b3-4de0-4a74-9b4c-561fe6303765.7302609.6755.c9ce89bf-20a6-a122-5630-418f1612ebf6.430192594457630000.3.B50A1ACF111A.165823568",
+							"name": "Flexy Room",
+							"rateType": "B2C",
+							"isRefundable": false,
+							"totalDiscount": 68880.0,
+							"totalDiscountWithoutCode": 0.0,
+							"totalDiscountWithoutCodeIDR": 0.0,
+							"totalNightPrice": 195773.0,
+							"netPrice": 236885.0,
+							"grossPrice": 236885.0,
+							"priceDifference": 0.0,
+							"commPrice": 0.0,
+							"totalAdditionalFee": 41112.0,
+							"bfType": "Room Only",
+							"bfTypeName": "Room Only",
+							"roomType": {
+								"sequence": 0,
+								"typeCode": "3210140",
+								"typeDescription": "Availability of the bed type can only be confirmed on check in",
+								"reqBedChild": false,
+								"roomCount": 1,
+								"maxOccupancy": 1,
+								"adultCount": 1,
+								"childCount": 0,
+								"totalPrice": 236885.0,
+								"totalDiscount": 68880.0,
+								"totalNightPrice": 195773.0,
+								"avgNightPrice": 195773.0,
+								"nettPrice": 195773.0,
+								"commPrice": 0.0,
+								"grossPrice": 236885.0,
+								"grossPriceIDR": 0.0,
+								"totalPriceIDR": 0.0,
+								"totalDiscountIDR": 0.0,
+								"totalNightPriceIDR": 0.0,
+								"avgNightPriceIDR": 0.0,
+								"nettPriceIDR": 0.0,
+								"commPriceIDR": 0.0,
+								"rate": [
+									{
+										"offset": 1,
+										"nightPrice": 195773.0,
+										"roomRate": [
+											{
+												"no": 1,
+												"adultCount": 1,
+												"childCount": 0,
+												"childAge1": 0,
+												"childAge2": 0,
+												"roomPrice": 195773.0,
+												"minstayPrice": 0.0,
+												"compulsoryPrice": 0.0,
+												"supplementPrice": 0.0,
+												"promotionBfPrice": 0.0,
+												"earlyBirdDiscount": 0.0,
+												"commissionPrice": 0.0,
+												"roomPriceIDR": 0.0,
+												"minstayPriceIDR": 0.0,
+												"compulsoryPriceIDR": 0.0,
+												"supplementPriceIDR": 0.0,
+												"promotionBfPriceIDR": 0.0,
+												"earlyBirdDiscountIDR": 0.0,
+												"commissionPriceIDR": 0.0
+											}
+										],
+										"roomRateInfo": {
+											"childMinAge": 0,
+											"childMaxAge": 0,
+											"minStayDay": 0,
+											"minStayType": "NONE",
+											"minStayRate": 0.0,
+											"promotionName": "Last Minute Special.  Price includes 20% discount!",
+											"promotionValue": false
+										},
+										"nightPriceIDR": 0.0
+									}
+								],
+								"pointRewardCount": 0
+							},
+							"cancellationPolicies": [
+								{
+									"exCancelDays": 999,
+									"cancelDateFrom": "09/15/2020 19:30:17",
+									"cancelDateTo": "12/31/9999 23:59:59",
+									"chargeType": "Percent",
+									"chargeRate": 100.0,
+									"description": "This rate is non-refundable and cannot be changed or cancelled. If you do choose to change or cancel this booking you will not be refunded any of the payment."
+								}
+							],
+							"roomImage": [
+								"http://pix5.agoda.net/hotelimages/297/297399/297399_16032214520040980570.jpg?s=312x"
+							],
+							"additionalFees": [
+								{ "type": "Fees", "amount": 17078.0, "isTotal": true },
+								{ "type": "Tax", "amount": 24034.0, "isTotal": true }
+							],
+							"facility": [
+								{
+									"facility_name": "complimentary bottled water",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Food & Drink",
+									"extraFee": false
+								},
+								{
+									"facility_name": "desk",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Business Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "flat screen television",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Entertainment",
+									"extraFee": false
+								},
+								{
+									"facility_name": "internet access  wireless",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Internet Access",
+									"extraFee": false
+								},
+								{
+									"facility_name": "internet access  wireless (complimentary)",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Internet Access",
+									"extraFee": false
+								},
+								{
+									"facility_name": "mirror",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "satellite/cable TV",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Television",
+									"extraFee": false
+								},
+								{
+									"facility_name": "shower",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Bathing Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "slippers",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "smoking policy  non-smoking available",
+									"type": "Policy",
+									"subtype": "Other",
+									"category": "Hotel Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "telephone",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "television",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Television",
+									"extraFee": false
+								},
+								{
+									"facility_name": "toiletries",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Bathing Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "towels",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Bathing Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "wake-up service",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Service",
+									"extraFee": false
+								}
+							],
+							"grossPriceIDR": 0.0,
+							"totalDiscountIDR": 0.0,
+							"totalNightPriceIDR": 0.0,
+							"netPriceIDR": 0.0,
+							"commPriceIDR": 0.0,
+							"totalAdditionalFeeIDR": 0.0,
+							"pointRewardCount": 0,
+							"remainingRooms": 3,
+							"normalBeddings": 1,
+							"extraBeds": 0
+						}
+					],
+					"heroImage": "http://pix4.agoda.net/hotelimages/297/297399/297399_14050210450019281295.jpg?s=800x",
+					"images": [
+						"http://pix4.agoda.net/hotelimages/297/297399/297399_14050210450019281295.jpg?s=800x",
+						"http://pix5.agoda.net/hotelimages/297/297399/297399_13122412570017962056.jpg?s=800x",
+						"http://pix1.agoda.net/hotelimages/297/297399/297399_13122412080017961822.jpg?s=800x",
+						"http://pix4.agoda.net/hotelimages/297/297399/297399_13122412570017962059.jpg?s=800x",
+						"http://pix3.agoda.net/hotelimages/297/297399/297399_13122412570017962057.jpg?s=800x"
+					],
+					"avail": false,
+					"tripAdvisorRating": 6.7,
+					"tripAdvisorReviewCount": 96,
+					"tripAdvisorRatingUrl": "https://cdn.staticaly.com/gh/bobbyferdi/asset-cdn/e6a513c5/stars/stars-6.70.png",
+					"latitude": -6.20417,
+					"longitude": 106.80835,
+					"checkInInstructions": "",
+					"supplierHotelCode": "297399",
+					"postalCode": "10210",
+					"mapChainCode": "CH02406",
+					"chainName": "Le Green Hotel & Suite",
+					"policy": {
+						"infantAge": 0,
+						"childrenAgeFrom": 0,
+						"childrenAgeTo": 3,
+						"childrenStayFree": true,
+						"minGuestAge": 0
+					},
+					"checkInTime": "02:00 PM",
+					"checkOutTime": "12:00 PM",
+					"distanceFromLocation": 0.0,
+					"gimmickPercentage": 7.0
+				}
+			}
+		],
+		"selectedHotels": [
+			{
+				"seq": 0,
+				"hotel": {
+					"hotelId": 527860,
+					"hotelCode": "H527860",
+					"mapHotelCode": "H527860",
+					"hotelScore": 0,
+					"hotelName": "Hotel Zenit Lisboa",
+					"locationName": "Jakarta",
+					"cityCode": "CI000152",
+					"cityName": "Jakarta",
+					"countryCode": "CO0094",
+					"countryName": "Indonesia",
+					"roomCount": 69,
+					"address1": "Jl. Tanjung Karang No.2 Thamrin Jakarta Pusat",
+					"address2": "",
+					"website": "https://www.agoda.com/partners/partnersearch.aspx?hid=234464",
+					"description": "Stop at Smart Hotel to discover the wonders of Jakarta. Both business travelers and tourists can enjoy the hotel's facilities and services. Take advantage of the hotel's 24-hour room service, free Wi-Fi in all rooms, 24-hour security, daily housekeeping, private check in/check out. Designed for comfort, selected guestrooms offer television LCD/plasma screen, clothes rack, linens, mirror, sewing kit to ensure a restful night. Access to the hotel's garden will further enhance your satisfying stay. Smart Hotel combines warm hospitality with a lovely ambiance to make your stay in Jakarta unforgettable.",
+					"longDescription": "<p><b>Description</b><br/>Stop at Smart Hotel to discover the wonders of Jakarta. Both business travelers and tourists can enjoy the hotel's facilities and services. Take advantage of the hotel's 24-hour room service, free Wi-Fi in all rooms, 24-hour security, daily housekeeping, private check in/check out. Designed for comfort, selected guestrooms offer television LCD/plasma screen, clothes rack, linens, mirror, sewing kit to ensure a restful night. Access to the hotel's garden will further enhance your satisfying stay. Smart Hotel combines warm hospitality with a lovely ambiance to make your stay in Jakarta unforgettable.<br/><br/></p>",
+					"facility": [
+						{
+							"facility_name": "24-hour front desk",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Service",
+							"extraFee": false
+						},
+						{
+							"facility_name": "24-hour room service",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Service",
+							"extraFee": false
+						},
+						{
+							"facility_name": "24-hour security",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Service",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car hire",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Transport",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park - charges apply",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park - free",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park - nearby",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park - nearby,charges apply",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park - nearby,free",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park - on site",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park - on site,charges apply",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "car park - on site,free",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Parking",
+							"extraFee": false
+						},
+						{
+							"facility_name": "Coffee shop or café",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Food & Drink",
+							"extraFee": false
+						},
+						{
+							"facility_name": "Designated smoking areas",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Hotel Facility",
+							"extraFee": false
+						},
+						{
+							"facility_name": "dry cleaning",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Service",
+							"extraFee": false
+						},
+						{
+							"facility_name": "Flat-panel TV",
+							"type": "RoomAmenity",
+							"subtype": "RoomAmenity",
+							"category": "Television",
+							"extraFee": false
+						},
+						{
+							"facility_name": "in room safe",
+							"type": "RoomAmenity",
+							"subtype": "RoomAmenity",
+							"category": "Room Facility",
+							"extraFee": false
+						},
+						{
+							"facility_name": "internet access  wireless",
+							"type": "RoomAmenity",
+							"subtype": "RoomAmenity",
+							"category": "Internet Access",
+							"extraFee": false
+						},
+						{
+							"facility_name": "laundry service",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Laundry",
+							"extraFee": false
+						},
+						{
+							"facility_name": "Restaurant",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Food & Drink",
+							"extraFee": false
+						},
+						{
+							"facility_name": "shops",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Shop",
+							"extraFee": false
+						},
+						{
+							"facility_name": "taxi service",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Transport",
+							"extraFee": false
+						},
+						{
+							"facility_name": "ticket service",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Transport",
+							"extraFee": false
+						},
+						{
+							"facility_name": "tours",
+							"type": "PropertyAmenity",
+							"subtype": "PropertyAmenity",
+							"category": "Entertainment",
+							"extraFee": false
+						}
+					],
+					"rating": 3.0,
+					"categoryDescription": "Hotel",
+					"currency": "IDR",
+					"internalCode": "AG",
+					"roomsCategory": [
+						{
+							"newPrice": 0.0,
+							"code": "AG.c.badca899-11f3-43d0-82b8-2231eaa66cee.8511306.619826.e3bf1270-56c6-9667-753f-8b54d742fb67.430192596407720000.1.B6001DC31E19",
+							"name": "Compact  Room",
+							"rateType": "B2C",
+							"isRefundable": true,
+							"totalDiscount": 0.0,
+							"totalDiscountWithoutCode": 0.0,
+							"totalDiscountWithoutCodeIDR": 0.0,
+							"totalNightPrice": 158245.0,
+							"netPrice": 191476.0,
+							"grossPrice": 191476.0,
+							"priceDifference": 0.0,
+							"commPrice": 0.0,
+							"totalAdditionalFee": 33231.0,
+							"bfType": "Room Only",
+							"bfTypeName": "Room Only",
+							"roomType": {
+								"sequence": 0,
+								"typeCode": "3026958",
+								"typeName": "1 queen bed",
+								"typeDescription": "Availability of the bed type can only be confirmed on check in",
+								"reqBedChild": false,
+								"roomCount": 1,
+								"maxOccupancy": 1,
+								"adultCount": 1,
+								"childCount": 0,
+								"totalPrice": 191476.0,
+								"totalDiscount": 0.0,
+								"totalNightPrice": 158245.0,
+								"avgNightPrice": 158245.0,
+								"nettPrice": 158245.0,
+								"commPrice": 0.0,
+								"grossPrice": 191476.0,
+								"grossPriceIDR": 0.0,
+								"totalPriceIDR": 0.0,
+								"totalDiscountIDR": 0.0,
+								"totalNightPriceIDR": 0.0,
+								"avgNightPriceIDR": 0.0,
+								"nettPriceIDR": 0.0,
+								"commPriceIDR": 0.0,
+								"rate": [
+									{
+										"offset": 1,
+										"nightPrice": 158245.0,
+										"roomRate": [
+											{
+												"no": 1,
+												"adultCount": 1,
+												"childCount": 0,
+												"childAge1": 0,
+												"childAge2": 0,
+												"roomPrice": 158245.0,
+												"minstayPrice": 0.0,
+												"compulsoryPrice": 0.0,
+												"supplementPrice": 0.0,
+												"promotionBfPrice": 0.0,
+												"earlyBirdDiscount": 0.0,
+												"commissionPrice": 0.0,
+												"roomPriceIDR": 0.0,
+												"minstayPriceIDR": 0.0,
+												"compulsoryPriceIDR": 0.0,
+												"supplementPriceIDR": 0.0,
+												"promotionBfPriceIDR": 0.0,
+												"earlyBirdDiscountIDR": 0.0,
+												"commissionPriceIDR": 0.0
+											}
+										],
+										"roomRateInfo": {
+											"childMinAge": 0,
+											"childMaxAge": 0,
+											"minStayDay": 0,
+											"minStayType": "NONE",
+											"minStayRate": 0.0,
+											"promotionName": "NONE",
+											"promotionValue": false
+										},
+										"nightPriceIDR": 0.0
+									}
+								],
+								"pointRewardCount": 0
+							},
+							"cancellationPolicies": [
+								{
+									"exCancelDays": 2,
+									"cancelDateFrom": "2020-09-14 00:00:00",
+									"cancelDateTo": "2020-09-14 23:59:59",
+									"chargeType": "Night/Room",
+									"currency": "IDR",
+									"chargeRate": 0.0,
+									"description": "Cancellation between September 14, 2020 00:00:00 and September 14, 2020 23:59:59 will be charged at 0 Night/Room"
+								},
+								{
+									"exCancelDays": 1,
+									"cancelDateFrom": "2020-09-15 00:00:00",
+									"cancelDateTo": "2020-09-15 23:59:59",
+									"chargeType": "Night/Room",
+									"currency": "IDR",
+									"chargeRate": 1.0,
+									"description": "Cancellation between September 15, 2020 00:00:00 and September 15, 2020 23:59:59 will be charged at 1 Night/Room"
+								},
+								{
+									"exCancelDays": 0,
+									"cancelDateFrom": "2020-09-16 00:00:00",
+									"cancelDateTo": "2020-09-17 00:00:00",
+									"chargeType": "Night/Room",
+									"currency": "IDR",
+									"chargeRate": 1.0,
+									"description": "Cancellation after September 16, 2020 00:00:00 will be charged at 1 Night/Room"
+								}
+							],
+							"roomImage": [
+								"http://pix3.agoda.net/hotelimages/234/234464/234464_16070416030044385729.jpg?s=312x"
+							],
+							"additionalFees": [
+								{ "type": "Fees", "amount": 15610.0, "isTotal": true },
+								{ "type": "Tax", "amount": 17621.0, "isTotal": true }
+							],
+							"facility": [
+								{
+									"facility_name": "air conditioning",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Air Conditioning",
+									"extraFee": false
+								},
+								{
+									"facility_name": "closet",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "clothes rack",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Laundry",
+									"extraFee": false
+								},
+								{
+									"facility_name": "complimentary bottled water",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Food & Drink",
+									"extraFee": false
+								},
+								{
+									"facility_name": "desk",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Business Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "flat screen television",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Entertainment",
+									"extraFee": false
+								},
+								{
+									"facility_name": "hair dryer",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "in room safe",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "inhouse movies",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Entertainment",
+									"extraFee": false
+								},
+								{
+									"facility_name": "internet access  wireless",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Internet Access",
+									"extraFee": false
+								},
+								{
+									"facility_name": "internet access  wireless (complimentary)",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Internet Access",
+									"extraFee": false
+								},
+								{
+									"facility_name": "ironing facilities",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "laptop friendly workspace",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Business Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "laptop safe box",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "linens",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Laundry",
+									"extraFee": false
+								},
+								{
+									"facility_name": "mirror",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "satellite/cable TV",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Television",
+									"extraFee": false
+								},
+								{
+									"facility_name": "sewing kit",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "shower",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Bathing Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "slippers",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "smoke detector",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "smoking policy  smoking available",
+									"type": "Policy",
+									"subtype": "Other",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "telephone",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "television",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Television",
+									"extraFee": false
+								},
+								{
+									"facility_name": "toiletries",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Bathing Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "towels",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Bathing Facility",
+									"extraFee": false
+								},
+								{
+									"facility_name": "wake-up service",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Service",
+									"extraFee": false
+								},
+								{
+									"facility_name": "wooden/parqueted flooring",
+									"type": "RoomAmenity",
+									"subtype": "RoomAmenity",
+									"category": "Room Facility",
+									"extraFee": false
+								}
+							],
+							"grossPriceIDR": 0.0,
+							"totalDiscountIDR": 0.0,
+							"totalNightPriceIDR": 0.0,
+							"netPriceIDR": 0.0,
+							"commPriceIDR": 0.0,
+							"totalAdditionalFeeIDR": 0.0,
+							"pointRewardCount": 0,
+							"remainingRooms": 4,
+							"normalBeddings": 1,
+							"extraBeds": 0
+						}
+					],
+					"heroImage": "http://pix4.agoda.net/hotelimages/234/234464/234464_121031214758887.jpg?s=800x",
+					"images": [
+						"http://pix4.agoda.net/hotelimages/234/234464/234464_121031214758887.jpg?s=800x",
+						"http://pix5.agoda.net/hotelimages/234/234464/234464_16061415270043547253.jpg?s=800x",
+						"http://pix1.agoda.net/hotelimages/234/234464/234464_17031619570051589174.jpg?s=800x",
+						"http://pix4.agoda.net/hotelimages/234/234464/234464_16100403360047290927.jpg?s=800x",
+						"http://pix5.agoda.net/hotelimages/234/234464/234464_120119004933855.jpg?s=800x",
+						"http://pix1.agoda.net/hotelimages/234/234464/234464_16061414370043542744.jpg?s=800x"
+					],
+					"avail": false,
+					"tripAdvisorRating": 6.3,
+					"tripAdvisorReviewCount": 2333,
+					"tripAdvisorRatingUrl": "https://cdn.staticaly.com/gh/bobbyferdi/asset-cdn/e6a513c5/stars/stars-6.30.png",
+					"latitude": -6.199139,
+					"longitude": 106.823,
+					"checkInInstructions": "",
+					"supplierHotelCode": "234464",
+					"postalCode": "10230",
+					"mapChainCode": "CH00001",
+					"chainName": "No chain",
+					"policy": {
+						"infantAge": 0,
+						"childrenAgeFrom": 2,
+						"childrenAgeTo": 12,
+						"childrenStayFree": true,
+						"minGuestAge": 0
+					},
+					"checkInTime": "02:00 PM",
+					"checkOutTime": "01:00 PM",
+					"distanceFromLocation": 0.0,
+					"gimmickPercentage": 7.0
+				}
+			}
+		]
+	},
+	"errors": [{ "code": "000", "type": "SUCCESS", "message": "Success." }],
+	"timestamp": "2020-09-15T19:29:43.7692695+07:00",
+	"responseTime": 734,
+	"serviceRequestId": "TWRQ202009151929437380"
+}
