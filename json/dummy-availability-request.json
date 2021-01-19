@@ -32,6 +32,7 @@
 	"noOfAdt": 1,
 	"noOfChd": 1,
 	"noOfInf": 1,
+	"cabin": "E",
 	"sessionId": "",
 	"platform": "WEB",
 	"appVersion": "1.0.0"
