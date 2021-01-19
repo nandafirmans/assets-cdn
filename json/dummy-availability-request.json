@@ -1,0 +1,38 @@
+{
+	"departureAirport": {
+		"code": "CGK",
+		"name": "Soekarno Hatta Intl, Jakarta",
+		"cityCode": "CGK",
+		"city": "CGK",
+		"countryCode": "ID",
+		"timezone": "7",
+		"latitude": -6.125567,
+		"longitude": 106.655897
+	},
+	"arrivalAirport": {
+		"code": "DPS",
+		"name": "Bali Ngurah Rai, Denpasar",
+		"cityCode": "DPS",
+		"city": "DPS",
+		"countryCode": "ID",
+		"timezone": "8",
+		"latitude": -8.748169,
+		"longitude": 115.167172
+	},
+	"departureDate": "2021-02-18",
+	"returnDate": "2021-02-19",
+	"promotionCode": "",
+	"currency": "IDR",
+	"airlines": [
+		{
+			"code": "JT",
+			"name": "Lion Air"
+		}
+	],
+	"noOfAdt": 1,
+	"noOfChd": 1,
+	"noOfInf": 1,
+	"sessionId": "",
+	"platform": "WEB",
+	"appVersion": "1.0.0"
+}
