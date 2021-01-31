@@ -759,7 +759,7 @@
 	"paymentUserName": "",
 	"installmentInfo": null,
 	"cardType": null,
-	"pointReward": 0.0,
+	"pointReward": 1300.0,
 	"errors": [{ "code": "000", "message": "Success.", "type": "SUCCESS" }],
 	"responseTime": 0,
 	"timestamp": "2021-01-26T17:11:04.6004838+07:00"
