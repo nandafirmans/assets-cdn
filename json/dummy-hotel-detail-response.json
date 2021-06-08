@@ -1,65 +1,81 @@
 {
 	"hotel": {
-		"hotelId": 1926839,
-		"hotelCode": "H01347207",
-		"mapHotelCode": "H01347207",
+		"hotelId": 701831,
+		"hotelCode": "H701831",
+		"mapHotelCode": "H701831",
 		"hotelScore": 0,
-		"hotelName": "Four Seasons Hotel Jakarta",
+		"hotelName": "Wyndham Casablanca Jakarta (Formerly The Park Lane Jakarta)",
 		"locationName": "Jakarta",
 		"cityCode": "CI000152",
 		"cityName": "Jakarta",
 		"countryCode": "CO0094",
 		"countryName": "Indonesia",
-		"roomCount": 125,
-		"address1": "Capital Place Jakarta Jalan Jenderal Gatot Subroto Kav 18",
+		"roomCount": 280,
+		"address1": "18 Street Casablanca",
 		"address2": "",
-		"postalCode": "12710",
-		"website": "https://www.agoda.com/partners/partnersearch.aspx?hid=477838",
-		"description": "The 4.5-star Four Seasons Hotel Jakarta offers comfort and convenience whether you're on business or holiday in Jakarta. Both business travelers and tourists can enjoy the hotel's facilities and services. Free Wi-Fi in all rooms, 24-hour security, daily housekeeping, taxi service, 24-hour front desk are on the list of things guests can enjoy. Guestrooms are designed to provide an optimal level of comfort with welcoming decor and some offering convenient amenities like television LCD/plasma screen, internet access  wireless (complimentary), non smoking rooms, air conditioning, desk. The hotel offers various recreational opportunities. Discover all Jakarta has to offer by making Four Seasons Hotel Jakarta your base.",
-		"longDescription": "<p><b>Description</b><br/>The 4.5-star Four Seasons Hotel Jakarta offers comfort and convenience whether you're on business or holiday in Jakarta. Both business travelers and tourists can enjoy the hotel's facilities and services. Free Wi-Fi in all rooms, 24-hour security, daily housekeeping, taxi service, 24-hour front desk are on the list of things guests can enjoy. Guestrooms are designed to provide an optimal level of comfort with welcoming decor and some offering convenient amenities like television LCD/plasma screen, internet access  wireless (complimentary), non smoking rooms, air conditioning, desk. The hotel offers various recreational opportunities. Discover all Jakarta has to offer by making Four Seasons Hotel Jakarta your base.<br/><br/></p>",
+		"address3": null,
+		"continent": null,
+		"region": null,
+		"telephone": null,
+		"facsimile": null,
+		"email": null,
+		"website": "https://www.agoda.com/partners/partnersearch.aspx?hid=2313",
+		"description": "The 5-star The Park Lane Jakarta offers comfort and convenience whether you're on business or holiday in Jakarta. Offering a variety of facilities and services, the hotel provides all you need for a good night's sleep. Facilities like 24-hour room service, free Wi-Fi in all rooms, 24-hour security, taxi service, daily housekeeping are readily available for you to enjoy. Designed for comfort, selected guestrooms offer television LCD/plasma screen, additional bathroom, carpeting, complimentary instant coffee, complimentary tea to ensure a restful night. Take a break from a long day and make use of yoga room, hot tub, fitness center, sauna, outdoor pool. The Park Lane Jakarta is an excellent choice from which to explore Jakarta or to simply relax and rejuvenate.",
+		"longDescription": "<p><b>Description</b><br/>The 5-star The Park Lane Jakarta offers comfort and convenience whether you're on business or holiday in Jakarta. Offering a variety of facilities and services, the hotel provides all you need for a good night's sleep. Facilities like 24-hour room service, free Wi-Fi in all rooms, 24-hour security, taxi service, daily housekeeping are readily available for you to enjoy. Designed for comfort, selected guestrooms offer television LCD/plasma screen, additional bathroom, carpeting, complimentary instant coffee, complimentary tea to ensure a restful night. Take a break from a long day and make use of yoga room, hot tub, fitness center, sauna, outdoor pool. The Park Lane Jakarta is an excellent choice from which to explore Jakarta or to simply relax and rejuvenate.<br/><br/></p>",
+		"facility": [],
 		"rating": 5.0,
+		"categoryDescription": "Hotel",
 		"currency": "IDR",
+		"marketName": null,
 		"internalCode": "Agoda",
 		"roomsCategory": [
 			{
-				"code": "AG.c.3faee08a-3b35-477a-bba4-fe633e34f30c.8701932.8728459.b34e2423-93f6-c75b-5bd2-9d4633d90bd8.452151595254850000.1.B5001CC3191F17",
-				"name": "Executive Suite two queen beds",
+				"newPrice": 0.0,
+				"code": "AG.c.ff6882ea-c720-4e13-9c9f-de8169e0b749.76324515.2510826.1c04725e-edc7-c58f-115b-ef6074564d89.449181595286011128.1.B60F1ECF191D13",
+				"name": "Grand Deluxe Room King, Smoking",
 				"rateType": "B2C",
 				"isRefundable": true,
-				"description": null,
 				"totalDiscount": 0.0,
-				"totalNightPrice": 2400000.0,
-				"netPrice": 2904000.0,
-				"grossPrice": 2904000.0,
-				"newPrice": 0.0,
+				"totalDiscountWithoutCode": 0.0,
+				"totalDiscountWithoutCodeIDR": 0.0,
+				"totalNightPrice": 1345474.0,
+				"netPrice": 1628024.0,
+				"grossPrice": 1628024.0,
+				"priceDifference": 0.0,
 				"commPrice": 0.0,
-				"totalAdditionalFee": 504000.0,
+				"totalAdditionalFee": 282550.0,
 				"currency": null,
-				"bfType": "Room Only",
-				"bfTypeName": "Room Only",
+				"bfType": "Breakfast",
+				"bfTypeName": "Breakfast",
 				"roomType": {
 					"sequence": 0,
 					"serviceNo": null,
-					"typeCode": "4363272",
-					"typeName": "2 queen beds",
+					"typeCode": "6486297",
+					"typeName": "1 king bed",
 					"typeDescription": "Availability of the bed type can only be confirmed on check in",
 					"reqBedChild": false,
 					"roomCount": 1,
 					"maxOccupancy": 1,
 					"adultCount": 1,
 					"childCount": 0,
-					"totalPrice": 2904000.0,
+					"totalPrice": 1628024.0,
 					"totalDiscount": 0.0,
-					"avgNightPrice": 2400000.0,
-					"totalNightPrice": 2400000.0,
-					"nettPrice": 2400000.0,
+					"totalNightPrice": 1345474.0,
+					"avgNightPrice": 1345474.0,
+					"nettPrice": 1345474.0,
 					"commPrice": 0.0,
-					"agentCommission": 2400000.0,
-					"grossPrice": 2904000.0,
+					"grossPrice": 1628024.0,
+					"grossPriceIDR": 0.0,
+					"totalPriceIDR": 0.0,
+					"totalDiscountIDR": 0.0,
+					"totalNightPriceIDR": 0.0,
+					"avgNightPriceIDR": 0.0,
+					"nettPriceIDR": 0.0,
+					"commPriceIDR": 0.0,
 					"rate": [
 						{
 							"offset": 1,
-							"nightPrice": 2400000.0,
+							"nightPrice": 1345474.0,
 							"roomRate": [
 								{
 									"no": 1,
@@ -67,15 +83,21 @@
 									"childCount": 0,
 									"childAge1": 0,
 									"childAge2": 0,
-									"roomPrice": 2400000.0,
-									"discount": 0.0,
+									"roomPrice": 1345474.0,
 									"minstayPrice": 0.0,
 									"compulsoryPrice": 0.0,
 									"supplementPrice": 0.0,
 									"promotionBfPrice": 0.0,
 									"earlyBirdDiscount": 0.0,
 									"commissionPrice": 0.0,
-									"sRoomType": null
+									"sRoomType": null,
+									"roomPriceIDR": 0.0,
+									"minstayPriceIDR": 0.0,
+									"compulsoryPriceIDR": 0.0,
+									"supplementPriceIDR": 0.0,
+									"promotionBfPriceIDR": 0.0,
+									"earlyBirdDiscountIDR": 0.0,
+									"commissionPriceIDR": 0.0
 								}
 							],
 							"roomRateInfo": {
@@ -86,26 +108,39 @@
 								"minStayRate": 0.0,
 								"promotionName": "NONE",
 								"promotionValue": false,
-								"promotionAmount": 0.0,
 								"promoCode": null
-							}
+							},
+							"nightPriceIDR": 0.0
 						}
 					],
-					"guests": null
+					"guests": null,
+					"pointRewardCount": 0
 				},
 				"roomList": null,
 				"cancellationPolicies": [
 					{
-						"exCancelDays": 365,
-						"cancelDateFrom": "2020-07-29 00:00:00",
+						"exCancelDays": 2,
+						"cancelDateFrom": "2021-07-27 00:00:00",
+						"cancelDateTo": "2021-07-27 23:59:59",
+						"roomCategoryCode": null,
+						"roomCategoryName": null,
+						"remarks": null,
+						"chargeType": "Night/Room",
+						"currency": "IDR",
+						"chargeRate": 0.0,
+						"description": "Cancellation between July 27, 2021 00:00:00 and July 27, 2021 23:59:59 will be charged at 0 Night/Room"
+					},
+					{
+						"exCancelDays": 1,
+						"cancelDateFrom": "2021-07-28 00:00:00",
 						"cancelDateTo": "2021-07-28 23:59:59",
 						"roomCategoryCode": null,
 						"roomCategoryName": null,
 						"remarks": null,
-						"chargeType": "Percent",
+						"chargeType": "Night/Room",
 						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation between July 29, 2020 00:00:00 and July 28, 2021 23:59:59 will be charged at 100 Percent"
+						"chargeRate": 1.0,
+						"description": "Cancellation between July 28, 2021 00:00:00 and July 28, 2021 23:59:59 will be charged at 1 Night/Room"
 					},
 					{
 						"exCancelDays": 0,
@@ -114,66 +149,87 @@
 						"roomCategoryCode": null,
 						"roomCategoryName": null,
 						"remarks": null,
-						"chargeType": "Percent",
+						"chargeType": "Night/Room",
 						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 100 Percent"
+						"chargeRate": 1.0,
+						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 1 Night/Room"
 					}
 				],
 				"roomImage": [
-					"http://pix6.agoda.net/hotelImages/477838/-1/2df3c3dba304be891753ce554f527944.jpg?s=312x"
+					"http://pix6.agoda.net/hotelImages/5900947/68291198/017b79ffe1b6bade516d00e7e5642dc2.jpg?s=312x"
 				],
-				"facility": [],
 				"additionalFees": [
-					{ "type": "Fees", "amount": 204000.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null },
-					{ "type": "Tax", "amount": 300000.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null }
+					{ "type": "Fees", "amount": 115790.0, "isTotal": true },
+					{ "type": "Tax", "amount": 166760.0, "isTotal": true }
 				],
 				"onTheSpotFees": null,
-				"supplierName": null,
-				"checkInInstructions": null,
-				"remainingRooms": 17,
+				"facility": [
+					{
+						"facility_name": "Breakfast",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Benefit",
+						"extraFee": false
+					}
+				],
+				"grossPriceIDR": 0.0,
+				"totalDiscountIDR": 0.0,
+				"totalNightPriceIDR": 0.0,
+				"netPriceIDR": 0.0,
+				"commPriceIDR": 0.0,
+				"totalAdditionalFeeIDR": 0.0,
+				"pointRewardCount": 0,
+				"remainingRooms": 37,
 				"normalBeddings": 1,
 				"extraBeds": 0
 			},
 			{
-				"code": "AG.c.47103cb9-4eb5-442d-a35b-52830ed1c410.8701931.8728459.14539c60-f76c-f9af-7173-6a446454e7a5.452151595254850000.2.B5001CC3191F17",
-				"name": "Executive Suite king bed",
+				"newPrice": 0.0,
+				"code": "AG.c.8dba3cb4-94d9-4929-abdb-3ec13b7d9384.76324519.2510826.46d334ec-2552-4ba9-eb8c-e38464d99b03.449181595286011128.3.B60F1ECF191D13",
+				"name": "Grand Deluxe Room Twin, Non Smoking",
 				"rateType": "B2C",
 				"isRefundable": true,
-				"description": null,
 				"totalDiscount": 0.0,
-				"totalNightPrice": 2400000.0,
-				"netPrice": 2904000.0,
-				"grossPrice": 2904000.0,
-				"newPrice": 0.0,
+				"totalDiscountWithoutCode": 0.0,
+				"totalDiscountWithoutCodeIDR": 0.0,
+				"totalNightPrice": 1345474.0,
+				"netPrice": 1628024.0,
+				"grossPrice": 1628024.0,
+				"priceDifference": 0.0,
 				"commPrice": 0.0,
-				"totalAdditionalFee": 504000.0,
+				"totalAdditionalFee": 282550.0,
 				"currency": null,
-				"bfType": "Room Only",
-				"bfTypeName": "Room Only",
+				"bfType": "Breakfast",
+				"bfTypeName": "Breakfast",
 				"roomType": {
 					"sequence": 0,
 					"serviceNo": null,
-					"typeCode": "4363368",
-					"typeName": "1 king bed",
+					"typeCode": "6486301",
+					"typeName": "2 single beds",
 					"typeDescription": "Availability of the bed type can only be confirmed on check in",
 					"reqBedChild": false,
 					"roomCount": 1,
 					"maxOccupancy": 1,
 					"adultCount": 1,
 					"childCount": 0,
-					"totalPrice": 2904000.0,
+					"totalPrice": 1628024.0,
 					"totalDiscount": 0.0,
-					"avgNightPrice": 2400000.0,
-					"totalNightPrice": 2400000.0,
-					"nettPrice": 2400000.0,
+					"totalNightPrice": 1345474.0,
+					"avgNightPrice": 1345474.0,
+					"nettPrice": 1345474.0,
 					"commPrice": 0.0,
-					"agentCommission": 2400000.0,
-					"grossPrice": 2904000.0,
+					"grossPrice": 1628024.0,
+					"grossPriceIDR": 0.0,
+					"totalPriceIDR": 0.0,
+					"totalDiscountIDR": 0.0,
+					"totalNightPriceIDR": 0.0,
+					"avgNightPriceIDR": 0.0,
+					"nettPriceIDR": 0.0,
+					"commPriceIDR": 0.0,
 					"rate": [
 						{
 							"offset": 1,
-							"nightPrice": 2400000.0,
+							"nightPrice": 1345474.0,
 							"roomRate": [
 								{
 									"no": 1,
@@ -181,15 +237,21 @@
 									"childCount": 0,
 									"childAge1": 0,
 									"childAge2": 0,
-									"roomPrice": 2400000.0,
-									"discount": 0.0,
+									"roomPrice": 1345474.0,
 									"minstayPrice": 0.0,
 									"compulsoryPrice": 0.0,
 									"supplementPrice": 0.0,
 									"promotionBfPrice": 0.0,
 									"earlyBirdDiscount": 0.0,
 									"commissionPrice": 0.0,
-									"sRoomType": null
+									"sRoomType": null,
+									"roomPriceIDR": 0.0,
+									"minstayPriceIDR": 0.0,
+									"compulsoryPriceIDR": 0.0,
+									"supplementPriceIDR": 0.0,
+									"promotionBfPriceIDR": 0.0,
+									"earlyBirdDiscountIDR": 0.0,
+									"commissionPriceIDR": 0.0
 								}
 							],
 							"roomRateInfo": {
@@ -200,150 +262,39 @@
 								"minStayRate": 0.0,
 								"promotionName": "NONE",
 								"promotionValue": false,
-								"promotionAmount": 0.0,
 								"promoCode": null
-							}
+							},
+							"nightPriceIDR": 0.0
 						}
 					],
-					"guests": null
+					"guests": null,
+					"pointRewardCount": 0
 				},
 				"roomList": null,
 				"cancellationPolicies": [
-					{
-						"exCancelDays": 365,
-						"cancelDateFrom": "2020-07-29 00:00:00",
-						"cancelDateTo": "2021-07-28 23:59:59",
-						"roomCategoryCode": null,
-						"roomCategoryName": null,
-						"remarks": null,
-						"chargeType": "Percent",
-						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation between July 29, 2020 00:00:00 and July 28, 2021 23:59:59 will be charged at 100 Percent"
-					},
-					{
-						"exCancelDays": 0,
-						"cancelDateFrom": "2021-07-29 00:00:00",
-						"cancelDateTo": "2021-07-30 00:00:00",
-						"roomCategoryCode": null,
-						"roomCategoryName": null,
-						"remarks": null,
-						"chargeType": "Percent",
-						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 100 Percent"
-					}
-				],
-				"roomImage": ["http://pix6.agoda.net/hotelImages/477/477838/477838_16071411090044665991.jpg?s=312x"],
-				"facility": [],
-				"additionalFees": [
-					{ "type": "Fees", "amount": 204000.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null },
-					{ "type": "Tax", "amount": 300000.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null }
-				],
-				"onTheSpotFees": null,
-				"supplierName": null,
-				"checkInInstructions": null,
-				"remainingRooms": 52,
-				"normalBeddings": 1,
-				"extraBeds": 0
-			},
-			{
-				"code": "AG.c.8fdad048-f9e1-4e9d-a55d-0e1ab8edda45.8701932.2193358.70be4e74-2418-2506-67d0-61ef0928c36c.452151595254850000.3.B40914C21C1F17.166246617",
-				"name": "Executive Suite two queen beds",
-				"rateType": "B2C",
-				"isRefundable": true,
-				"description": null,
-				"totalDiscount": 722500.0,
-				"totalNightPrice": 2550000.0,
-				"netPrice": 3085500.0,
-				"grossPrice": 3085500.0,
-				"newPrice": 0.0,
-				"commPrice": 0.0,
-				"totalAdditionalFee": 535500.0,
-				"currency": null,
-				"bfType": "Room Only",
-				"bfTypeName": "Room Only",
-				"roomType": {
-					"sequence": 0,
-					"serviceNo": null,
-					"typeCode": "4363272",
-					"typeName": "2 queen beds",
-					"typeDescription": "Availability of the bed type can only be confirmed on check in",
-					"reqBedChild": false,
-					"roomCount": 1,
-					"maxOccupancy": 1,
-					"adultCount": 1,
-					"childCount": 0,
-					"totalPrice": 3085500.0,
-					"totalDiscount": 722500.0,
-					"avgNightPrice": 2550000.0,
-					"totalNightPrice": 2550000.0,
-					"nettPrice": 2550000.0,
-					"commPrice": 0.0,
-					"agentCommission": 2550000.0,
-					"grossPrice": 3085500.0,
-					"rate": [
-						{
-							"offset": 1,
-							"nightPrice": 2550000.0,
-							"roomRate": [
-								{
-									"no": 1,
-									"adultCount": 1,
-									"childCount": 0,
-									"childAge1": 0,
-									"childAge2": 0,
-									"roomPrice": 2550000.0,
-									"discount": 722500.0,
-									"minstayPrice": 0.0,
-									"compulsoryPrice": 0.0,
-									"supplementPrice": 0.0,
-									"promotionBfPrice": 0.0,
-									"earlyBirdDiscount": 0.0,
-									"commissionPrice": 0.0,
-									"sRoomType": null
-								}
-							],
-							"roomRateInfo": {
-								"childMinAge": 0,
-								"childMaxAge": 0,
-								"minStayDay": 0,
-								"minStayType": "NONE",
-								"minStayRate": 0.0,
-								"promotionName": "Limited time offer. Price includes 25% discount!",
-								"promotionValue": false,
-								"promotionAmount": 722500.0,
-								"promoCode": null
-							}
-						}
-					],
-					"guests": null
-				},
-				"roomList": null,
-				"cancellationPolicies": [
-					{
-						"exCancelDays": 3,
-						"cancelDateFrom": "2021-07-26 00:00:00",
-						"cancelDateTo": "2021-07-26 23:59:59",
-						"roomCategoryCode": null,
-						"roomCategoryName": null,
-						"remarks": null,
-						"chargeType": "Percent",
-						"currency": "IDR",
-						"chargeRate": 0.0,
-						"description": "Cancellation between July 26, 2021 00:00:00 and July 26, 2021 23:59:59 will be charged at 0 Percent"
-					},
 					{
 						"exCancelDays": 2,
 						"cancelDateFrom": "2021-07-27 00:00:00",
+						"cancelDateTo": "2021-07-27 23:59:59",
+						"roomCategoryCode": null,
+						"roomCategoryName": null,
+						"remarks": null,
+						"chargeType": "Night/Room",
+						"currency": "IDR",
+						"chargeRate": 0.0,
+						"description": "Cancellation between July 27, 2021 00:00:00 and July 27, 2021 23:59:59 will be charged at 0 Night/Room"
+					},
+					{
+						"exCancelDays": 1,
+						"cancelDateFrom": "2021-07-28 00:00:00",
 						"cancelDateTo": "2021-07-28 23:59:59",
 						"roomCategoryCode": null,
 						"roomCategoryName": null,
 						"remarks": null,
-						"chargeType": "Percent",
+						"chargeType": "Night/Room",
 						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation between July 27, 2021 00:00:00 and July 28, 2021 23:59:59 will be charged at 100 Percent"
+						"chargeRate": 1.0,
+						"description": "Cancellation between July 28, 2021 00:00:00 and July 28, 2021 23:59:59 will be charged at 1 Night/Room"
 					},
 					{
 						"exCancelDays": 0,
@@ -352,47 +303,62 @@
 						"roomCategoryCode": null,
 						"roomCategoryName": null,
 						"remarks": null,
-						"chargeType": "Percent",
+						"chargeType": "Night/Room",
 						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 100 Percent"
+						"chargeRate": 1.0,
+						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 1 Night/Room"
 					}
 				],
 				"roomImage": [
-					"http://pix6.agoda.net/hotelImages/477838/-1/2df3c3dba304be891753ce554f527944.jpg?s=312x"
+					"http://pix6.agoda.net/hotelImages/5900947/68291193/f9b6cad398d58f6767c5bca02d794302.jpg?s=312x"
 				],
-				"facility": [],
 				"additionalFees": [
-					{ "type": "Fees", "amount": 216750.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null },
-					{ "type": "Tax", "amount": 318750.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null }
+					{ "type": "Fees", "amount": 115790.0, "isTotal": true },
+					{ "type": "Tax", "amount": 166760.0, "isTotal": true }
 				],
 				"onTheSpotFees": null,
-				"supplierName": null,
-				"checkInInstructions": null,
-				"remainingRooms": 17,
+				"facility": [
+					{
+						"facility_name": "Breakfast",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Benefit",
+						"extraFee": false
+					}
+				],
+				"grossPriceIDR": 0.0,
+				"totalDiscountIDR": 0.0,
+				"totalNightPriceIDR": 0.0,
+				"netPriceIDR": 0.0,
+				"commPriceIDR": 0.0,
+				"totalAdditionalFeeIDR": 0.0,
+				"pointRewardCount": 0,
+				"remainingRooms": 31,
 				"normalBeddings": 1,
 				"extraBeds": 0
 			},
 			{
-				"code": "AG.c.3fe7f3a4-e19b-4979-970c-6d6be028ec94.8701931.2193358.ba1b67c6-0ae5-daf6-ea18-1c2c5e087277.452151595254850000.4.B40914C21C1F17.166246617",
-				"name": "Executive Suite king bed",
+				"newPrice": 0.0,
+				"code": "AG.c.5c769aa9-a5e1-4102-8917-91f6743dce69.76324514.2510826.20a938e6-6625-5af4-84e9-a0109884fec2.449181595286011128.4.B60F1ECF191D13",
+				"name": "Grand Deluxe Room",
 				"rateType": "B2C",
 				"isRefundable": true,
-				"description": null,
-				"totalDiscount": 722500.0,
-				"totalNightPrice": 2550000.0,
-				"netPrice": 3085500.0,
-				"grossPrice": 3085500.0,
-				"newPrice": 0.0,
+				"totalDiscount": 0.0,
+				"totalDiscountWithoutCode": 0.0,
+				"totalDiscountWithoutCodeIDR": 0.0,
+				"totalNightPrice": 1345474.0,
+				"netPrice": 1628024.0,
+				"grossPrice": 1628024.0,
+				"priceDifference": 0.0,
 				"commPrice": 0.0,
-				"totalAdditionalFee": 535500.0,
+				"totalAdditionalFee": 282550.0,
 				"currency": null,
-				"bfType": "Room Only",
-				"bfTypeName": "Room Only",
+				"bfType": "Breakfast",
+				"bfTypeName": "Breakfast",
 				"roomType": {
 					"sequence": 0,
 					"serviceNo": null,
-					"typeCode": "4363368",
+					"typeCode": "6486299",
 					"typeName": "1 king bed",
 					"typeDescription": "Availability of the bed type can only be confirmed on check in",
 					"reqBedChild": false,
@@ -400,18 +366,24 @@
 					"maxOccupancy": 1,
 					"adultCount": 1,
 					"childCount": 0,
-					"totalPrice": 3085500.0,
-					"totalDiscount": 722500.0,
-					"avgNightPrice": 2550000.0,
-					"totalNightPrice": 2550000.0,
-					"nettPrice": 2550000.0,
+					"totalPrice": 1628024.0,
+					"totalDiscount": 0.0,
+					"totalNightPrice": 1345474.0,
+					"avgNightPrice": 1345474.0,
+					"nettPrice": 1345474.0,
 					"commPrice": 0.0,
-					"agentCommission": 2550000.0,
-					"grossPrice": 3085500.0,
+					"grossPrice": 1628024.0,
+					"grossPriceIDR": 0.0,
+					"totalPriceIDR": 0.0,
+					"totalDiscountIDR": 0.0,
+					"totalNightPriceIDR": 0.0,
+					"avgNightPriceIDR": 0.0,
+					"nettPriceIDR": 0.0,
+					"commPriceIDR": 0.0,
 					"rate": [
 						{
 							"offset": 1,
-							"nightPrice": 2550000.0,
+							"nightPrice": 1345474.0,
 							"roomRate": [
 								{
 									"no": 1,
@@ -419,15 +391,21 @@
 									"childCount": 0,
 									"childAge1": 0,
 									"childAge2": 0,
-									"roomPrice": 2550000.0,
-									"discount": 722500.0,
+									"roomPrice": 1345474.0,
 									"minstayPrice": 0.0,
 									"compulsoryPrice": 0.0,
 									"supplementPrice": 0.0,
 									"promotionBfPrice": 0.0,
 									"earlyBirdDiscount": 0.0,
 									"commissionPrice": 0.0,
-									"sRoomType": null
+									"sRoomType": null,
+									"roomPriceIDR": 0.0,
+									"minstayPriceIDR": 0.0,
+									"compulsoryPriceIDR": 0.0,
+									"supplementPriceIDR": 0.0,
+									"promotionBfPriceIDR": 0.0,
+									"earlyBirdDiscountIDR": 0.0,
+									"commissionPriceIDR": 0.0
 								}
 							],
 							"roomRateInfo": {
@@ -436,40 +414,41 @@
 								"minStayDay": 0,
 								"minStayType": "NONE",
 								"minStayRate": 0.0,
-								"promotionName": "Limited time offer. Price includes 25% discount!",
+								"promotionName": "NONE",
 								"promotionValue": false,
-								"promotionAmount": 722500.0,
 								"promoCode": null
-							}
+							},
+							"nightPriceIDR": 0.0
 						}
 					],
-					"guests": null
+					"guests": null,
+					"pointRewardCount": 0
 				},
 				"roomList": null,
 				"cancellationPolicies": [
 					{
-						"exCancelDays": 3,
-						"cancelDateFrom": "2021-07-26 00:00:00",
-						"cancelDateTo": "2021-07-26 23:59:59",
+						"exCancelDays": 2,
+						"cancelDateFrom": "2021-07-27 00:00:00",
+						"cancelDateTo": "2021-07-27 23:59:59",
 						"roomCategoryCode": null,
 						"roomCategoryName": null,
 						"remarks": null,
-						"chargeType": "Percent",
+						"chargeType": "Night/Room",
 						"currency": "IDR",
 						"chargeRate": 0.0,
-						"description": "Cancellation between July 26, 2021 00:00:00 and July 26, 2021 23:59:59 will be charged at 0 Percent"
+						"description": "Cancellation between July 27, 2021 00:00:00 and July 27, 2021 23:59:59 will be charged at 0 Night/Room"
 					},
 					{
-						"exCancelDays": 2,
-						"cancelDateFrom": "2021-07-27 00:00:00",
+						"exCancelDays": 1,
+						"cancelDateFrom": "2021-07-28 00:00:00",
 						"cancelDateTo": "2021-07-28 23:59:59",
 						"roomCategoryCode": null,
 						"roomCategoryName": null,
 						"remarks": null,
-						"chargeType": "Percent",
+						"chargeType": "Night/Room",
 						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation between July 27, 2021 00:00:00 and July 28, 2021 23:59:59 will be charged at 100 Percent"
+						"chargeRate": 1.0,
+						"description": "Cancellation between July 28, 2021 00:00:00 and July 28, 2021 23:59:59 will be charged at 1 Night/Room"
 					},
 					{
 						"exCancelDays": 0,
@@ -478,45 +457,216 @@
 						"roomCategoryCode": null,
 						"roomCategoryName": null,
 						"remarks": null,
-						"chargeType": "Percent",
+						"chargeType": "Night/Room",
 						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 100 Percent"
+						"chargeRate": 1.0,
+						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 1 Night/Room"
 					}
 				],
-				"roomImage": ["http://pix6.agoda.net/hotelImages/477/477838/477838_16071411090044665991.jpg?s=312x"],
-				"facility": [],
+				"roomImage": [
+					"http://pix6.agoda.net/hotelImages/5900947/68291202/017b79ffe1b6bade516d00e7e5642dc2.jpg?s=312x"
+				],
 				"additionalFees": [
-					{ "type": "Fees", "amount": 216750.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null },
-					{ "type": "Tax", "amount": 318750.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null }
+					{ "type": "Fees", "amount": 115790.0, "isTotal": true },
+					{ "type": "Tax", "amount": 166760.0, "isTotal": true }
 				],
 				"onTheSpotFees": null,
-				"supplierName": null,
-				"checkInInstructions": null,
-				"remainingRooms": 52,
+				"facility": [
+					{
+						"facility_name": "Breakfast",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Benefit",
+						"extraFee": false
+					}
+				],
+				"grossPriceIDR": 0.0,
+				"totalDiscountIDR": 0.0,
+				"totalNightPriceIDR": 0.0,
+				"netPriceIDR": 0.0,
+				"commPriceIDR": 0.0,
+				"totalAdditionalFeeIDR": 0.0,
+				"pointRewardCount": 0,
+				"remainingRooms": 110,
 				"normalBeddings": 1,
 				"extraBeds": 0
 			},
 			{
-				"code": "AG.c.dc4b53a9-e799-4c8b-b3c9-d3ab01f7cd27.8701928.8728459.fabe1cd9-6b89-ee34-6f84-27d122a57c29.452151595254850000.5.B4081AC6181D12.166149717",
-				"name": "Deluxe King Suite",
+				"newPrice": 0.0,
+				"code": "AG.c.267df140-f7bc-485a-8cad-ca35c43b4da1.76324520.2510826.cb0370f0-9211-d936-7840-addbdff79b7e.449181595286011128.2.B60F1ECF191D13",
+				"name": "Grand Deluxe Room Twin Smoking",
 				"rateType": "B2C",
 				"isRefundable": true,
-				"description": null,
-				"totalDiscount": 116875.0,
-				"totalNightPrice": 2612500.0,
-				"netPrice": 3161125.0,
-				"grossPrice": 3161125.0,
-				"newPrice": 0.0,
+				"totalDiscount": 0.0,
+				"totalDiscountWithoutCode": 0.0,
+				"totalDiscountWithoutCodeIDR": 0.0,
+				"totalNightPrice": 1345474.0,
+				"netPrice": 1628024.0,
+				"grossPrice": 1628024.0,
+				"priceDifference": 0.0,
 				"commPrice": 0.0,
-				"totalAdditionalFee": 548625.0,
+				"totalAdditionalFee": 282550.0,
 				"currency": null,
-				"bfType": "Room Only",
-				"bfTypeName": "Room Only",
+				"bfType": "Breakfast",
+				"bfTypeName": "Breakfast",
 				"roomType": {
 					"sequence": 0,
 					"serviceNo": null,
-					"typeCode": "4363318",
+					"typeCode": "6486298",
+					"typeName": "2 single beds",
+					"typeDescription": "Availability of the bed type can only be confirmed on check in",
+					"reqBedChild": false,
+					"roomCount": 1,
+					"maxOccupancy": 1,
+					"adultCount": 1,
+					"childCount": 0,
+					"totalPrice": 1628024.0,
+					"totalDiscount": 0.0,
+					"totalNightPrice": 1345474.0,
+					"avgNightPrice": 1345474.0,
+					"nettPrice": 1345474.0,
+					"commPrice": 0.0,
+					"grossPrice": 1628024.0,
+					"grossPriceIDR": 0.0,
+					"totalPriceIDR": 0.0,
+					"totalDiscountIDR": 0.0,
+					"totalNightPriceIDR": 0.0,
+					"avgNightPriceIDR": 0.0,
+					"nettPriceIDR": 0.0,
+					"commPriceIDR": 0.0,
+					"rate": [
+						{
+							"offset": 1,
+							"nightPrice": 1345474.0,
+							"roomRate": [
+								{
+									"no": 1,
+									"adultCount": 1,
+									"childCount": 0,
+									"childAge1": 0,
+									"childAge2": 0,
+									"roomPrice": 1345474.0,
+									"minstayPrice": 0.0,
+									"compulsoryPrice": 0.0,
+									"supplementPrice": 0.0,
+									"promotionBfPrice": 0.0,
+									"earlyBirdDiscount": 0.0,
+									"commissionPrice": 0.0,
+									"sRoomType": null,
+									"roomPriceIDR": 0.0,
+									"minstayPriceIDR": 0.0,
+									"compulsoryPriceIDR": 0.0,
+									"supplementPriceIDR": 0.0,
+									"promotionBfPriceIDR": 0.0,
+									"earlyBirdDiscountIDR": 0.0,
+									"commissionPriceIDR": 0.0
+								}
+							],
+							"roomRateInfo": {
+								"childMinAge": 0,
+								"childMaxAge": 0,
+								"minStayDay": 0,
+								"minStayType": "NONE",
+								"minStayRate": 0.0,
+								"promotionName": "NONE",
+								"promotionValue": false,
+								"promoCode": null
+							},
+							"nightPriceIDR": 0.0
+						}
+					],
+					"guests": null,
+					"pointRewardCount": 0
+				},
+				"roomList": null,
+				"cancellationPolicies": [
+					{
+						"exCancelDays": 2,
+						"cancelDateFrom": "2021-07-27 00:00:00",
+						"cancelDateTo": "2021-07-27 23:59:59",
+						"roomCategoryCode": null,
+						"roomCategoryName": null,
+						"remarks": null,
+						"chargeType": "Night/Room",
+						"currency": "IDR",
+						"chargeRate": 0.0,
+						"description": "Cancellation between July 27, 2021 00:00:00 and July 27, 2021 23:59:59 will be charged at 0 Night/Room"
+					},
+					{
+						"exCancelDays": 1,
+						"cancelDateFrom": "2021-07-28 00:00:00",
+						"cancelDateTo": "2021-07-28 23:59:59",
+						"roomCategoryCode": null,
+						"roomCategoryName": null,
+						"remarks": null,
+						"chargeType": "Night/Room",
+						"currency": "IDR",
+						"chargeRate": 1.0,
+						"description": "Cancellation between July 28, 2021 00:00:00 and July 28, 2021 23:59:59 will be charged at 1 Night/Room"
+					},
+					{
+						"exCancelDays": 0,
+						"cancelDateFrom": "2021-07-29 00:00:00",
+						"cancelDateTo": "2021-07-30 00:00:00",
+						"roomCategoryCode": null,
+						"roomCategoryName": null,
+						"remarks": null,
+						"chargeType": "Night/Room",
+						"currency": "IDR",
+						"chargeRate": 1.0,
+						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 1 Night/Room"
+					}
+				],
+				"roomImage": [
+					"http://pix6.agoda.net/hotelImages/5900947/68291197/f9b6cad398d58f6767c5bca02d794302.jpg?s=312x"
+				],
+				"additionalFees": [
+					{ "type": "Fees", "amount": 115790.0, "isTotal": true },
+					{ "type": "Tax", "amount": 166760.0, "isTotal": true }
+				],
+				"onTheSpotFees": null,
+				"facility": [
+					{
+						"facility_name": "Breakfast",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Benefit",
+						"extraFee": false
+					}
+				],
+				"grossPriceIDR": 0.0,
+				"totalDiscountIDR": 0.0,
+				"totalNightPriceIDR": 0.0,
+				"netPriceIDR": 0.0,
+				"commPriceIDR": 0.0,
+				"totalAdditionalFeeIDR": 0.0,
+				"pointRewardCount": 0,
+				"remainingRooms": 8,
+				"normalBeddings": 1,
+				"extraBeds": 0
+			},
+			{
+				"newPrice": 0.0,
+				"code": "AG.c.bf65de76-2b1e-4661-8222-a8f08a44e2ab.10644012.2510826.291c0a6c-6bc7-77ca-d379-79ecc942508c.449181595286011128.5.B5091FC61F1610",
+				"name": "Executive Room",
+				"rateType": "B2C",
+				"isRefundable": true,
+				"totalDiscount": 0.0,
+				"totalDiscountWithoutCode": 0.0,
+				"totalDiscountWithoutCodeIDR": 0.0,
+				"totalNightPrice": 1679088.0,
+				"netPrice": 2031697.0,
+				"grossPrice": 2031697.0,
+				"priceDifference": 0.0,
+				"commPrice": 0.0,
+				"totalAdditionalFee": 352609.0,
+				"currency": null,
+				"bfType": "Breakfast",
+				"bfTypeName": "Breakfast",
+				"roomType": {
+					"sequence": 0,
+					"serviceNo": null,
+					"typeCode": "2143384",
 					"typeName": "1 king bed",
 					"typeDescription": "Availability of the bed type can only be confirmed on check in",
 					"reqBedChild": false,
@@ -524,18 +674,24 @@
 					"maxOccupancy": 1,
 					"adultCount": 1,
 					"childCount": 0,
-					"totalPrice": 3161125.0,
-					"totalDiscount": 116875.0,
-					"avgNightPrice": 2612500.0,
-					"totalNightPrice": 2612500.0,
-					"nettPrice": 2612500.0,
+					"totalPrice": 2031697.0,
+					"totalDiscount": 0.0,
+					"totalNightPrice": 1679088.0,
+					"avgNightPrice": 1679088.0,
+					"nettPrice": 1679088.0,
 					"commPrice": 0.0,
-					"agentCommission": 2612500.0,
-					"grossPrice": 3161125.0,
+					"grossPrice": 2031697.0,
+					"grossPriceIDR": 0.0,
+					"totalPriceIDR": 0.0,
+					"totalDiscountIDR": 0.0,
+					"totalNightPriceIDR": 0.0,
+					"avgNightPriceIDR": 0.0,
+					"nettPriceIDR": 0.0,
+					"commPriceIDR": 0.0,
 					"rate": [
 						{
 							"offset": 1,
-							"nightPrice": 2612500.0,
+							"nightPrice": 1679088.0,
 							"roomRate": [
 								{
 									"no": 1,
@@ -543,15 +699,21 @@
 									"childCount": 0,
 									"childAge1": 0,
 									"childAge2": 0,
-									"roomPrice": 2612500.0,
-									"discount": 116875.0,
+									"roomPrice": 1679088.0,
 									"minstayPrice": 0.0,
 									"compulsoryPrice": 0.0,
 									"supplementPrice": 0.0,
 									"promotionBfPrice": 0.0,
 									"earlyBirdDiscount": 0.0,
 									"commissionPrice": 0.0,
-									"sRoomType": null
+									"sRoomType": null,
+									"roomPriceIDR": 0.0,
+									"minstayPriceIDR": 0.0,
+									"compulsoryPriceIDR": 0.0,
+									"supplementPriceIDR": 0.0,
+									"promotionBfPriceIDR": 0.0,
+									"earlyBirdDiscountIDR": 0.0,
+									"commissionPriceIDR": 0.0
 								}
 							],
 							"roomRateInfo": {
@@ -560,266 +722,41 @@
 								"minStayDay": 0,
 								"minStayType": "NONE",
 								"minStayRate": 0.0,
-								"promotionName": "Limited time offer. Price includes 5% discount!",
+								"promotionName": "NONE",
 								"promotionValue": false,
-								"promotionAmount": 116875.0,
 								"promoCode": null
-							}
+							},
+							"nightPriceIDR": 0.0
 						}
 					],
-					"guests": null
+					"guests": null,
+					"pointRewardCount": 0
 				},
 				"roomList": null,
 				"cancellationPolicies": [
-					{
-						"exCancelDays": 365,
-						"cancelDateFrom": "2020-07-29 00:00:00",
-						"cancelDateTo": "2021-07-28 23:59:59",
-						"roomCategoryCode": null,
-						"roomCategoryName": null,
-						"remarks": null,
-						"chargeType": "Percent",
-						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation between July 29, 2020 00:00:00 and July 28, 2021 23:59:59 will be charged at 100 Percent"
-					},
-					{
-						"exCancelDays": 0,
-						"cancelDateFrom": "2021-07-29 00:00:00",
-						"cancelDateTo": "2021-07-30 00:00:00",
-						"roomCategoryCode": null,
-						"roomCategoryName": null,
-						"remarks": null,
-						"chargeType": "Percent",
-						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 100 Percent"
-					}
-				],
-				"roomImage": ["http://pix6.agoda.net/hotelImages/477/477838/477838_16071410310044664712.jpg?s=312x"],
-				"facility": [],
-				"additionalFees": [
-					{ "type": "Fees", "amount": 222062.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null },
-					{ "type": "Tax", "amount": 326563.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null }
-				],
-				"onTheSpotFees": null,
-				"supplierName": null,
-				"checkInInstructions": null,
-				"remainingRooms": 34,
-				"normalBeddings": 1,
-				"extraBeds": 0
-			},
-			{
-				"code": "AG.c.4e3c0cfc-b19f-4f1c-8b1a-7e0e84c9b111.8701930.8728459.d8759465-ebbb-da70-5965-f4d337533274.452151595254850000.6.B4081AC6181D12.166149717",
-				"name": "Deluxe Suite 2 Queen",
-				"rateType": "B2C",
-				"isRefundable": true,
-				"description": null,
-				"totalDiscount": 116875.0,
-				"totalNightPrice": 2612500.0,
-				"netPrice": 3161125.0,
-				"grossPrice": 3161125.0,
-				"newPrice": 0.0,
-				"commPrice": 0.0,
-				"totalAdditionalFee": 548625.0,
-				"currency": null,
-				"bfType": "Room Only",
-				"bfTypeName": "Room Only",
-				"roomType": {
-					"sequence": 0,
-					"serviceNo": null,
-					"typeCode": "4363331",
-					"typeName": "2 queen beds",
-					"typeDescription": "Availability of the bed type can only be confirmed on check in",
-					"reqBedChild": false,
-					"roomCount": 1,
-					"maxOccupancy": 1,
-					"adultCount": 1,
-					"childCount": 0,
-					"totalPrice": 3161125.0,
-					"totalDiscount": 116875.0,
-					"avgNightPrice": 2612500.0,
-					"totalNightPrice": 2612500.0,
-					"nettPrice": 2612500.0,
-					"commPrice": 0.0,
-					"agentCommission": 2612500.0,
-					"grossPrice": 3161125.0,
-					"rate": [
-						{
-							"offset": 1,
-							"nightPrice": 2612500.0,
-							"roomRate": [
-								{
-									"no": 1,
-									"adultCount": 1,
-									"childCount": 0,
-									"childAge1": 0,
-									"childAge2": 0,
-									"roomPrice": 2612500.0,
-									"discount": 116875.0,
-									"minstayPrice": 0.0,
-									"compulsoryPrice": 0.0,
-									"supplementPrice": 0.0,
-									"promotionBfPrice": 0.0,
-									"earlyBirdDiscount": 0.0,
-									"commissionPrice": 0.0,
-									"sRoomType": null
-								}
-							],
-							"roomRateInfo": {
-								"childMinAge": 0,
-								"childMaxAge": 0,
-								"minStayDay": 0,
-								"minStayType": "NONE",
-								"minStayRate": 0.0,
-								"promotionName": "Limited time offer. Price includes 5% discount!",
-								"promotionValue": false,
-								"promotionAmount": 116875.0,
-								"promoCode": null
-							}
-						}
-					],
-					"guests": null
-				},
-				"roomList": null,
-				"cancellationPolicies": [
-					{
-						"exCancelDays": 365,
-						"cancelDateFrom": "2020-07-29 00:00:00",
-						"cancelDateTo": "2021-07-28 23:59:59",
-						"roomCategoryCode": null,
-						"roomCategoryName": null,
-						"remarks": null,
-						"chargeType": "Percent",
-						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation between July 29, 2020 00:00:00 and July 28, 2021 23:59:59 will be charged at 100 Percent"
-					},
-					{
-						"exCancelDays": 0,
-						"cancelDateFrom": "2021-07-29 00:00:00",
-						"cancelDateTo": "2021-07-30 00:00:00",
-						"roomCategoryCode": null,
-						"roomCategoryName": null,
-						"remarks": null,
-						"chargeType": "Percent",
-						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 100 Percent"
-					}
-				],
-				"roomImage": [
-					"http://pix6.agoda.net/hotelImages/477838/-1/b70a2379f692518d7927a2eb094bfa4b.jpg?s=312x"
-				],
-				"facility": [],
-				"additionalFees": [
-					{ "type": "Fees", "amount": 222062.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null },
-					{ "type": "Tax", "amount": 326563.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null }
-				],
-				"onTheSpotFees": null,
-				"supplierName": null,
-				"checkInInstructions": null,
-				"remainingRooms": 11,
-				"normalBeddings": 1,
-				"extraBeds": 0
-			},
-			{
-				"code": "AG.c.7efe7c90-ce23-40ae-9b97-93b30682ee85.8701930.2546666.ea873058-cb28-53e8-4ede-f6caf0f3a3da.452151595254850000.8.B40F1EC7101D12.166149717",
-				"name": "Deluxe Suite 2 Queen",
-				"rateType": "B2C",
-				"isRefundable": true,
-				"description": null,
-				"totalDiscount": 133875.0,
-				"totalNightPrice": 2992500.0,
-				"netPrice": 3620925.0,
-				"grossPrice": 3620925.0,
-				"newPrice": 0.0,
-				"commPrice": 0.0,
-				"totalAdditionalFee": 628425.0,
-				"currency": null,
-				"bfType": "Room Only",
-				"bfTypeName": "Room Only",
-				"roomType": {
-					"sequence": 0,
-					"serviceNo": null,
-					"typeCode": "4363331",
-					"typeName": "2 queen beds",
-					"typeDescription": "Availability of the bed type can only be confirmed on check in",
-					"reqBedChild": false,
-					"roomCount": 1,
-					"maxOccupancy": 1,
-					"adultCount": 1,
-					"childCount": 0,
-					"totalPrice": 3620925.0,
-					"totalDiscount": 133875.0,
-					"avgNightPrice": 2992500.0,
-					"totalNightPrice": 2992500.0,
-					"nettPrice": 2992500.0,
-					"commPrice": 0.0,
-					"agentCommission": 2992500.0,
-					"grossPrice": 3620925.0,
-					"rate": [
-						{
-							"offset": 1,
-							"nightPrice": 2992500.0,
-							"roomRate": [
-								{
-									"no": 1,
-									"adultCount": 1,
-									"childCount": 0,
-									"childAge1": 0,
-									"childAge2": 0,
-									"roomPrice": 2992500.0,
-									"discount": 133875.0,
-									"minstayPrice": 0.0,
-									"compulsoryPrice": 0.0,
-									"supplementPrice": 0.0,
-									"promotionBfPrice": 0.0,
-									"earlyBirdDiscount": 0.0,
-									"commissionPrice": 0.0,
-									"sRoomType": null
-								}
-							],
-							"roomRateInfo": {
-								"childMinAge": 0,
-								"childMaxAge": 0,
-								"minStayDay": 0,
-								"minStayType": "NONE",
-								"minStayRate": 0.0,
-								"promotionName": "Limited time offer. Price includes 5% discount!",
-								"promotionValue": false,
-								"promotionAmount": 133875.0,
-								"promoCode": null
-							}
-						}
-					],
-					"guests": null
-				},
-				"roomList": null,
-				"cancellationPolicies": [
-					{
-						"exCancelDays": 3,
-						"cancelDateFrom": "2021-07-26 00:00:00",
-						"cancelDateTo": "2021-07-26 23:59:59",
-						"roomCategoryCode": null,
-						"roomCategoryName": null,
-						"remarks": null,
-						"chargeType": "Percent",
-						"currency": "IDR",
-						"chargeRate": 0.0,
-						"description": "Cancellation between July 26, 2021 00:00:00 and July 26, 2021 23:59:59 will be charged at 0 Percent"
-					},
 					{
 						"exCancelDays": 2,
 						"cancelDateFrom": "2021-07-27 00:00:00",
+						"cancelDateTo": "2021-07-27 23:59:59",
+						"roomCategoryCode": null,
+						"roomCategoryName": null,
+						"remarks": null,
+						"chargeType": "Night/Room",
+						"currency": "IDR",
+						"chargeRate": 0.0,
+						"description": "Cancellation between July 27, 2021 00:00:00 and July 27, 2021 23:59:59 will be charged at 0 Night/Room"
+					},
+					{
+						"exCancelDays": 1,
+						"cancelDateFrom": "2021-07-28 00:00:00",
 						"cancelDateTo": "2021-07-28 23:59:59",
 						"roomCategoryCode": null,
 						"roomCategoryName": null,
 						"remarks": null,
-						"chargeType": "Percent",
+						"chargeType": "Night/Room",
 						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation between July 27, 2021 00:00:00 and July 28, 2021 23:59:59 will be charged at 100 Percent"
+						"chargeRate": 1.0,
+						"description": "Cancellation between July 28, 2021 00:00:00 and July 28, 2021 23:59:59 will be charged at 1 Night/Room"
 					},
 					{
 						"exCancelDays": 0,
@@ -828,47 +765,279 @@
 						"roomCategoryCode": null,
 						"roomCategoryName": null,
 						"remarks": null,
-						"chargeType": "Percent",
+						"chargeType": "Night/Room",
 						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 100 Percent"
+						"chargeRate": 1.0,
+						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 1 Night/Room"
 					}
 				],
 				"roomImage": [
-					"http://pix6.agoda.net/hotelImages/477838/-1/b70a2379f692518d7927a2eb094bfa4b.jpg?s=312x"
+					"http://pix6.agoda.net/hotelImages/5900947/68291203/ff7b791d1e65c89f54a5115d13e80dee.jpg?s=312x"
 				],
-				"facility": [],
 				"additionalFees": [
-					{ "type": "Fees", "amount": 254362.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null },
-					{ "type": "Tax", "amount": 374063.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null }
+					{ "type": "Fees", "amount": 144500.0, "isTotal": true },
+					{ "type": "Tax", "amount": 208109.0, "isTotal": true }
 				],
 				"onTheSpotFees": null,
-				"supplierName": null,
-				"checkInInstructions": null,
-				"remainingRooms": 11,
+				"facility": [
+					{
+						"facility_name": "air conditioning",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Air Conditioning",
+						"extraFee": false
+					},
+					{
+						"facility_name": "bathtub",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Bathing Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "blackout curtains",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "closet",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "coffee/tea maker",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Kitchen Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "complimentary bottled water",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Food & Drink",
+						"extraFee": false
+					},
+					{
+						"facility_name": "complimentary instant coffee",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Food & Drink",
+						"extraFee": false
+					},
+					{
+						"facility_name": "complimentary tea",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Food & Drink",
+						"extraFee": false
+					},
+					{
+						"facility_name": "desk",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Business Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "flat screen television",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Entertainment",
+						"extraFee": false
+					},
+					{
+						"facility_name": "hair dryer",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "High floor",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Access Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "in room safe",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "internet access  wireless (complimentary)",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Internet Access",
+						"extraFee": false
+					},
+					{
+						"facility_name": "kitchenette",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Kitchen Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "linens",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Laundry",
+						"extraFee": false
+					},
+					{
+						"facility_name": "microwave",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Kitchen Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "mini bar",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Kitchen Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "mirror",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "seating area",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "separate dining area",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "separate living room",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "shower",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Bathing Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "slippers",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "smoking policy  non-smoking available",
+						"type": "Policy",
+						"subtype": "Other",
+						"category": "Hotel Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "sofa",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "telephone",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "television",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Television",
+						"extraFee": false
+					},
+					{
+						"facility_name": "toiletries",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Bathing Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "Top floor",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Access Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "towels",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Bathing Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "Breakfast",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Benefit",
+						"extraFee": false
+					}
+				],
+				"grossPriceIDR": 0.0,
+				"totalDiscountIDR": 0.0,
+				"totalNightPriceIDR": 0.0,
+				"netPriceIDR": 0.0,
+				"commPriceIDR": 0.0,
+				"totalAdditionalFeeIDR": 0.0,
+				"pointRewardCount": 0,
+				"remainingRooms": 9,
 				"normalBeddings": 1,
 				"extraBeds": 0
 			},
 			{
-				"code": "AG.c.284c84b8-0d44-4c05-9cdc-57ff1b58bd27.8701928.2546666.3a802861-97bd-751b-a3f7-991cce4ef468.452151595254850000.7.B40F1EC7101D12.166149717",
-				"name": "Deluxe King Suite",
+				"newPrice": 0.0,
+				"code": "AG.c.e9d10d33-b83d-4110-a450-4a0629386be8.126735667.2510826.ca9acd76-22ce-b948-3427-8a40474da68e.449181595286011128.6.B50B1BC71E1D17",
+				"name": "Executive Business Room King, Smoking",
 				"rateType": "B2C",
 				"isRefundable": true,
-				"description": null,
-				"totalDiscount": 133875.0,
-				"totalNightPrice": 2992500.0,
-				"netPrice": 3620925.0,
-				"grossPrice": 3620925.0,
-				"newPrice": 0.0,
+				"totalDiscount": 0.0,
+				"totalDiscountWithoutCode": 0.0,
+				"totalDiscountWithoutCodeIDR": 0.0,
+				"totalNightPrice": 1876628.0,
+				"netPrice": 2270720.0,
+				"grossPrice": 2270720.0,
+				"priceDifference": 0.0,
 				"commPrice": 0.0,
-				"totalAdditionalFee": 628425.0,
+				"totalAdditionalFee": 394092.0,
 				"currency": null,
-				"bfType": "Room Only",
-				"bfTypeName": "Room Only",
+				"bfType": "Breakfast",
+				"bfTypeName": "Breakfast",
 				"roomType": {
 					"sequence": 0,
 					"serviceNo": null,
-					"typeCode": "4363318",
+					"typeCode": "6486300",
 					"typeName": "1 king bed",
 					"typeDescription": "Availability of the bed type can only be confirmed on check in",
 					"reqBedChild": false,
@@ -876,18 +1045,24 @@
 					"maxOccupancy": 1,
 					"adultCount": 1,
 					"childCount": 0,
-					"totalPrice": 3620925.0,
-					"totalDiscount": 133875.0,
-					"avgNightPrice": 2992500.0,
-					"totalNightPrice": 2992500.0,
-					"nettPrice": 2992500.0,
+					"totalPrice": 2270720.0,
+					"totalDiscount": 0.0,
+					"totalNightPrice": 1876628.0,
+					"avgNightPrice": 1876628.0,
+					"nettPrice": 1876628.0,
 					"commPrice": 0.0,
-					"agentCommission": 2992500.0,
-					"grossPrice": 3620925.0,
+					"grossPrice": 2270720.0,
+					"grossPriceIDR": 0.0,
+					"totalPriceIDR": 0.0,
+					"totalDiscountIDR": 0.0,
+					"totalNightPriceIDR": 0.0,
+					"avgNightPriceIDR": 0.0,
+					"nettPriceIDR": 0.0,
+					"commPriceIDR": 0.0,
 					"rate": [
 						{
 							"offset": 1,
-							"nightPrice": 2992500.0,
+							"nightPrice": 1876628.0,
 							"roomRate": [
 								{
 									"no": 1,
@@ -895,15 +1070,21 @@
 									"childCount": 0,
 									"childAge1": 0,
 									"childAge2": 0,
-									"roomPrice": 2992500.0,
-									"discount": 133875.0,
+									"roomPrice": 1876628.0,
 									"minstayPrice": 0.0,
 									"compulsoryPrice": 0.0,
 									"supplementPrice": 0.0,
 									"promotionBfPrice": 0.0,
 									"earlyBirdDiscount": 0.0,
 									"commissionPrice": 0.0,
-									"sRoomType": null
+									"sRoomType": null,
+									"roomPriceIDR": 0.0,
+									"minstayPriceIDR": 0.0,
+									"compulsoryPriceIDR": 0.0,
+									"supplementPriceIDR": 0.0,
+									"promotionBfPriceIDR": 0.0,
+									"earlyBirdDiscountIDR": 0.0,
+									"commissionPriceIDR": 0.0
 								}
 							],
 							"roomRateInfo": {
@@ -912,40 +1093,41 @@
 								"minStayDay": 0,
 								"minStayType": "NONE",
 								"minStayRate": 0.0,
-								"promotionName": "Limited time offer. Price includes 5% discount!",
+								"promotionName": "NONE",
 								"promotionValue": false,
-								"promotionAmount": 133875.0,
 								"promoCode": null
-							}
+							},
+							"nightPriceIDR": 0.0
 						}
 					],
-					"guests": null
+					"guests": null,
+					"pointRewardCount": 0
 				},
 				"roomList": null,
 				"cancellationPolicies": [
 					{
-						"exCancelDays": 3,
-						"cancelDateFrom": "2021-07-26 00:00:00",
-						"cancelDateTo": "2021-07-26 23:59:59",
+						"exCancelDays": 2,
+						"cancelDateFrom": "2021-07-27 00:00:00",
+						"cancelDateTo": "2021-07-27 23:59:59",
 						"roomCategoryCode": null,
 						"roomCategoryName": null,
 						"remarks": null,
-						"chargeType": "Percent",
+						"chargeType": "Night/Room",
 						"currency": "IDR",
 						"chargeRate": 0.0,
-						"description": "Cancellation between July 26, 2021 00:00:00 and July 26, 2021 23:59:59 will be charged at 0 Percent"
+						"description": "Cancellation between July 27, 2021 00:00:00 and July 27, 2021 23:59:59 will be charged at 0 Night/Room"
 					},
 					{
-						"exCancelDays": 2,
-						"cancelDateFrom": "2021-07-27 00:00:00",
+						"exCancelDays": 1,
+						"cancelDateFrom": "2021-07-28 00:00:00",
 						"cancelDateTo": "2021-07-28 23:59:59",
 						"roomCategoryCode": null,
 						"roomCategoryName": null,
 						"remarks": null,
-						"chargeType": "Percent",
+						"chargeType": "Night/Room",
 						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation between July 27, 2021 00:00:00 and July 28, 2021 23:59:59 will be charged at 100 Percent"
+						"chargeRate": 1.0,
+						"description": "Cancellation between July 28, 2021 00:00:00 and July 28, 2021 23:59:59 will be charged at 1 Night/Room"
 					},
 					{
 						"exCancelDays": 0,
@@ -954,64 +1136,87 @@
 						"roomCategoryCode": null,
 						"roomCategoryName": null,
 						"remarks": null,
-						"chargeType": "Percent",
+						"chargeType": "Night/Room",
 						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 100 Percent"
+						"chargeRate": 1.0,
+						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 1 Night/Room"
 					}
 				],
-				"roomImage": ["http://pix6.agoda.net/hotelImages/477/477838/477838_16071410310044664712.jpg?s=312x"],
-				"facility": [],
+				"roomImage": [
+					"http://pix6.agoda.net/hotelImages/5900947/126958916/309162b83e08bd27cecdfafe177d1b59.jpg?s=312x"
+				],
 				"additionalFees": [
-					{ "type": "Fees", "amount": 254362.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null },
-					{ "type": "Tax", "amount": 374063.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null }
+					{ "type": "Fees", "amount": 161500.0, "isTotal": true },
+					{ "type": "Tax", "amount": 232592.0, "isTotal": true }
 				],
 				"onTheSpotFees": null,
-				"supplierName": null,
-				"checkInInstructions": null,
-				"remainingRooms": 34,
+				"facility": [
+					{
+						"facility_name": "Breakfast",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Benefit",
+						"extraFee": false
+					}
+				],
+				"grossPriceIDR": 0.0,
+				"totalDiscountIDR": 0.0,
+				"totalNightPriceIDR": 0.0,
+				"netPriceIDR": 0.0,
+				"commPriceIDR": 0.0,
+				"totalAdditionalFeeIDR": 0.0,
+				"pointRewardCount": 0,
+				"remainingRooms": 5,
 				"normalBeddings": 1,
 				"extraBeds": 0
 			},
 			{
-				"code": "AG.c.a52a0518-26ac-4fec-a2d3-e7b129f52b33.8701929.8728459.a970a75d-3a8c-912b-17a0-d21953a69838.452151595254850000.9.B40E1FC2111812.166149717",
-				"name": "Club Premier Suite king bed",
+				"newPrice": 0.0,
+				"code": "AG.c.7b1d87a5-2e70-4bb1-940d-5283c9dc46fa.3089706.2510826.1b639d58-109f-9344-6733-3e632254d3ee.449181595286011128.7.B50B1BC71E1D17",
+				"name": "Executive Business",
 				"rateType": "B2C",
 				"isRefundable": true,
-				"description": null,
-				"totalDiscount": 138125.0,
-				"totalNightPrice": 3087500.0,
-				"netPrice": 3735875.0,
-				"grossPrice": 3735875.0,
-				"newPrice": 0.0,
+				"totalDiscount": 0.0,
+				"totalDiscountWithoutCode": 0.0,
+				"totalDiscountWithoutCodeIDR": 0.0,
+				"totalNightPrice": 1876628.0,
+				"netPrice": 2270720.0,
+				"grossPrice": 2270720.0,
+				"priceDifference": 0.0,
 				"commPrice": 0.0,
-				"totalAdditionalFee": 648375.0,
+				"totalAdditionalFee": 394092.0,
 				"currency": null,
-				"bfType": "Room Only",
-				"bfTypeName": "Room Only",
+				"bfType": "Breakfast",
+				"bfTypeName": "Breakfast",
 				"roomType": {
 					"sequence": 0,
 					"serviceNo": null,
-					"typeCode": "4363325",
-					"typeName": "",
+					"typeCode": "2143374",
+					"typeName": "1 double bed",
 					"typeDescription": "Availability of the bed type can only be confirmed on check in",
 					"reqBedChild": false,
 					"roomCount": 1,
 					"maxOccupancy": 1,
 					"adultCount": 1,
 					"childCount": 0,
-					"totalPrice": 3735875.0,
-					"totalDiscount": 138125.0,
-					"avgNightPrice": 3087500.0,
-					"totalNightPrice": 3087500.0,
-					"nettPrice": 3087500.0,
+					"totalPrice": 2270720.0,
+					"totalDiscount": 0.0,
+					"totalNightPrice": 1876628.0,
+					"avgNightPrice": 1876628.0,
+					"nettPrice": 1876628.0,
 					"commPrice": 0.0,
-					"agentCommission": 3087500.0,
-					"grossPrice": 3735875.0,
+					"grossPrice": 2270720.0,
+					"grossPriceIDR": 0.0,
+					"totalPriceIDR": 0.0,
+					"totalDiscountIDR": 0.0,
+					"totalNightPriceIDR": 0.0,
+					"avgNightPriceIDR": 0.0,
+					"nettPriceIDR": 0.0,
+					"commPriceIDR": 0.0,
 					"rate": [
 						{
 							"offset": 1,
-							"nightPrice": 3087500.0,
+							"nightPrice": 1876628.0,
 							"roomRate": [
 								{
 									"no": 1,
@@ -1019,15 +1224,21 @@
 									"childCount": 0,
 									"childAge1": 0,
 									"childAge2": 0,
-									"roomPrice": 3087500.0,
-									"discount": 138125.0,
+									"roomPrice": 1876628.0,
 									"minstayPrice": 0.0,
 									"compulsoryPrice": 0.0,
 									"supplementPrice": 0.0,
 									"promotionBfPrice": 0.0,
 									"earlyBirdDiscount": 0.0,
 									"commissionPrice": 0.0,
-									"sRoomType": null
+									"sRoomType": null,
+									"roomPriceIDR": 0.0,
+									"minstayPriceIDR": 0.0,
+									"compulsoryPriceIDR": 0.0,
+									"supplementPriceIDR": 0.0,
+									"promotionBfPriceIDR": 0.0,
+									"earlyBirdDiscountIDR": 0.0,
+									"commissionPriceIDR": 0.0
 								}
 							],
 							"roomRateInfo": {
@@ -1036,28 +1247,41 @@
 								"minStayDay": 0,
 								"minStayType": "NONE",
 								"minStayRate": 0.0,
-								"promotionName": "Limited time offer. Price includes 5% discount!",
+								"promotionName": "NONE",
 								"promotionValue": false,
-								"promotionAmount": 138125.0,
 								"promoCode": null
-							}
+							},
+							"nightPriceIDR": 0.0
 						}
 					],
-					"guests": null
+					"guests": null,
+					"pointRewardCount": 0
 				},
 				"roomList": null,
 				"cancellationPolicies": [
 					{
-						"exCancelDays": 365,
-						"cancelDateFrom": "2020-07-29 00:00:00",
+						"exCancelDays": 2,
+						"cancelDateFrom": "2021-07-27 00:00:00",
+						"cancelDateTo": "2021-07-27 23:59:59",
+						"roomCategoryCode": null,
+						"roomCategoryName": null,
+						"remarks": null,
+						"chargeType": "Night/Room",
+						"currency": "IDR",
+						"chargeRate": 0.0,
+						"description": "Cancellation between July 27, 2021 00:00:00 and July 27, 2021 23:59:59 will be charged at 0 Night/Room"
+					},
+					{
+						"exCancelDays": 1,
+						"cancelDateFrom": "2021-07-28 00:00:00",
 						"cancelDateTo": "2021-07-28 23:59:59",
 						"roomCategoryCode": null,
 						"roomCategoryName": null,
 						"remarks": null,
-						"chargeType": "Percent",
+						"chargeType": "Night/Room",
 						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation between July 29, 2020 00:00:00 and July 28, 2021 23:59:59 will be charged at 100 Percent"
+						"chargeRate": 1.0,
+						"description": "Cancellation between July 28, 2021 00:00:00 and July 28, 2021 23:59:59 will be charged at 1 Night/Room"
 					},
 					{
 						"exCancelDays": 0,
@@ -1066,66 +1290,204 @@
 						"roomCategoryCode": null,
 						"roomCategoryName": null,
 						"remarks": null,
-						"chargeType": "Percent",
+						"chargeType": "Night/Room",
 						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 100 Percent"
+						"chargeRate": 1.0,
+						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 1 Night/Room"
 					}
 				],
-				"roomImage": [
-					"http://pix6.agoda.net/hotelImages/477838/-1/de8f3b2bc1259cb6c6342a749d95bf6e.jpg?s=312x"
-				],
-				"facility": [],
+				"roomImage": ["http://pix3.agoda.net/hotelimages/231/2313/2313_17021309100050976192.jpg?s=312x"],
 				"additionalFees": [
-					{ "type": "Fees", "amount": 262438.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null },
-					{ "type": "Tax", "amount": 385937.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null }
+					{ "type": "Fees", "amount": 161500.0, "isTotal": true },
+					{ "type": "Tax", "amount": 232592.0, "isTotal": true }
 				],
 				"onTheSpotFees": null,
-				"supplierName": null,
-				"checkInInstructions": null,
-				"remainingRooms": 23,
+				"facility": [
+					{
+						"facility_name": "air conditioning",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Air Conditioning",
+						"extraFee": false
+					},
+					{
+						"facility_name": "bathrobes",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Bathing Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "bathtub",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Bathing Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "coffee/tea maker",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Kitchen Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "complimentary bottled water",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Food & Drink",
+						"extraFee": false
+					},
+					{
+						"facility_name": "daily newspaper",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Entertainment",
+						"extraFee": false
+					},
+					{
+						"facility_name": "desk",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Business Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "DVD/CD player",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Entertainment",
+						"extraFee": false
+					},
+					{
+						"facility_name": "hair dryer",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "in room safe",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "internet access  LAN (complimentary)",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Internet Access",
+						"extraFee": false
+					},
+					{
+						"facility_name": "internet access  wireless (complimentary)",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Internet Access",
+						"extraFee": false
+					},
+					{
+						"facility_name": "mini bar",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Kitchen Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "satellite/cable TV",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Television",
+						"extraFee": false
+					},
+					{
+						"facility_name": "separate shower and tub",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Bathing Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "smoking policy  non-smoking available",
+						"type": "Policy",
+						"subtype": "Other",
+						"category": "Hotel Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "television",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Television",
+						"extraFee": false
+					},
+					{
+						"facility_name": "Breakfast",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Benefit",
+						"extraFee": false
+					}
+				],
+				"grossPriceIDR": 0.0,
+				"totalDiscountIDR": 0.0,
+				"totalNightPriceIDR": 0.0,
+				"netPriceIDR": 0.0,
+				"commPriceIDR": 0.0,
+				"totalAdditionalFeeIDR": 0.0,
+				"pointRewardCount": 0,
+				"remainingRooms": 5,
 				"normalBeddings": 1,
 				"extraBeds": 0
 			},
 			{
-				"code": "AG.c.8216ddcf-b957-4e15-9a9f-14e91b1cb14a.8701929.2546666.02b6535e-b77b-f7c9-5905-c0df88b77b8d.452151595254850000.10.B20914C11C1C1F.166149717",
-				"name": "Club Premier Suite king bed",
+				"newPrice": 0.0,
+				"code": "AG.c.125b4a78-de88-4abe-8430-75ec854d1766.3089711.2510826.3ec84402-b0c1-67ea-175e-73dedec9e9ed.449181595286011128.8.B50F1ECE1B1A12",
+				"name": "Junior Suite Room",
 				"rateType": "B2C",
 				"isRefundable": true,
-				"description": null,
-				"totalDiscount": 188063.0,
-				"totalNightPrice": 4203750.0,
-				"netPrice": 5086538.0,
-				"grossPrice": 5086538.0,
-				"newPrice": 0.0,
+				"totalDiscount": 0.0,
+				"totalDiscountWithoutCode": 0.0,
+				"totalDiscountWithoutCodeIDR": 0.0,
+				"totalNightPrice": 2172938.0,
+				"netPrice": 2629255.0,
+				"grossPrice": 2629255.0,
+				"priceDifference": 0.0,
 				"commPrice": 0.0,
-				"totalAdditionalFee": 882788.0,
+				"totalAdditionalFee": 456317.0,
 				"currency": null,
-				"bfType": "Room Only",
-				"bfTypeName": "Room Only",
+				"bfType": "Breakfast",
+				"bfTypeName": "Breakfast",
 				"roomType": {
 					"sequence": 0,
 					"serviceNo": null,
-					"typeCode": "4363325",
-					"typeName": "",
+					"typeCode": "2143375",
+					"typeName": "1 king bed",
 					"typeDescription": "Availability of the bed type can only be confirmed on check in",
 					"reqBedChild": false,
 					"roomCount": 1,
 					"maxOccupancy": 1,
 					"adultCount": 1,
 					"childCount": 0,
-					"totalPrice": 5086538.0,
-					"totalDiscount": 188063.0,
-					"avgNightPrice": 4203750.0,
-					"totalNightPrice": 4203750.0,
-					"nettPrice": 4203750.0,
+					"totalPrice": 2629255.0,
+					"totalDiscount": 0.0,
+					"totalNightPrice": 2172938.0,
+					"avgNightPrice": 2172938.0,
+					"nettPrice": 2172938.0,
 					"commPrice": 0.0,
-					"agentCommission": 4203750.0,
-					"grossPrice": 5086538.0,
+					"grossPrice": 2629255.0,
+					"grossPriceIDR": 0.0,
+					"totalPriceIDR": 0.0,
+					"totalDiscountIDR": 0.0,
+					"totalNightPriceIDR": 0.0,
+					"avgNightPriceIDR": 0.0,
+					"nettPriceIDR": 0.0,
+					"commPriceIDR": 0.0,
 					"rate": [
 						{
 							"offset": 1,
-							"nightPrice": 4203750.0,
+							"nightPrice": 2172938.0,
 							"roomRate": [
 								{
 									"no": 1,
@@ -1133,15 +1495,21 @@
 									"childCount": 0,
 									"childAge1": 0,
 									"childAge2": 0,
-									"roomPrice": 4203750.0,
-									"discount": 188063.0,
+									"roomPrice": 2172938.0,
 									"minstayPrice": 0.0,
 									"compulsoryPrice": 0.0,
 									"supplementPrice": 0.0,
 									"promotionBfPrice": 0.0,
 									"earlyBirdDiscount": 0.0,
 									"commissionPrice": 0.0,
-									"sRoomType": null
+									"sRoomType": null,
+									"roomPriceIDR": 0.0,
+									"minstayPriceIDR": 0.0,
+									"compulsoryPriceIDR": 0.0,
+									"supplementPriceIDR": 0.0,
+									"promotionBfPriceIDR": 0.0,
+									"earlyBirdDiscountIDR": 0.0,
+									"commissionPriceIDR": 0.0
 								}
 							],
 							"roomRateInfo": {
@@ -1150,40 +1518,41 @@
 								"minStayDay": 0,
 								"minStayType": "NONE",
 								"minStayRate": 0.0,
-								"promotionName": "Limited time offer. Price includes 5% discount!",
+								"promotionName": "NONE",
 								"promotionValue": false,
-								"promotionAmount": 188063.0,
 								"promoCode": null
-							}
+							},
+							"nightPriceIDR": 0.0
 						}
 					],
-					"guests": null
+					"guests": null,
+					"pointRewardCount": 0
 				},
 				"roomList": null,
 				"cancellationPolicies": [
 					{
-						"exCancelDays": 3,
-						"cancelDateFrom": "2021-07-26 00:00:00",
-						"cancelDateTo": "2021-07-26 23:59:59",
+						"exCancelDays": 2,
+						"cancelDateFrom": "2021-07-27 00:00:00",
+						"cancelDateTo": "2021-07-27 23:59:59",
 						"roomCategoryCode": null,
 						"roomCategoryName": null,
 						"remarks": null,
-						"chargeType": "Percent",
+						"chargeType": "Night/Room",
 						"currency": "IDR",
 						"chargeRate": 0.0,
-						"description": "Cancellation between July 26, 2021 00:00:00 and July 26, 2021 23:59:59 will be charged at 0 Percent"
+						"description": "Cancellation between July 27, 2021 00:00:00 and July 27, 2021 23:59:59 will be charged at 0 Night/Room"
 					},
 					{
-						"exCancelDays": 2,
-						"cancelDateFrom": "2021-07-27 00:00:00",
+						"exCancelDays": 1,
+						"cancelDateFrom": "2021-07-28 00:00:00",
 						"cancelDateTo": "2021-07-28 23:59:59",
 						"roomCategoryCode": null,
 						"roomCategoryName": null,
 						"remarks": null,
-						"chargeType": "Percent",
+						"chargeType": "Night/Room",
 						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation between July 27, 2021 00:00:00 and July 28, 2021 23:59:59 will be charged at 100 Percent"
+						"chargeRate": 1.0,
+						"description": "Cancellation between July 28, 2021 00:00:00 and July 28, 2021 23:59:59 will be charged at 1 Night/Room"
 					},
 					{
 						"exCancelDays": 0,
@@ -1192,272 +1561,601 @@
 						"roomCategoryCode": null,
 						"roomCategoryName": null,
 						"remarks": null,
-						"chargeType": "Percent",
+						"chargeType": "Night/Room",
 						"currency": "IDR",
-						"chargeRate": 100.0,
-						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 100 Percent"
+						"chargeRate": 1.0,
+						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 1 Night/Room"
 					}
 				],
 				"roomImage": [
-					"http://pix6.agoda.net/hotelImages/477838/-1/de8f3b2bc1259cb6c6342a749d95bf6e.jpg?s=312x"
+					"http://pix6.agoda.net/hotelImages/5900947/70002196/2eb33313d5be38eb3f90c66e891f36f7.jpg?s=312x"
 				],
-				"facility": [],
 				"additionalFees": [
-					{ "type": "Fees", "amount": 357318.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null },
-					{ "type": "Tax", "amount": 525470.0, "isTotal": true, "tax": 0.0, "fees": 0.0, "id": null }
+					{ "type": "Fees", "amount": 187000.0, "isTotal": true },
+					{ "type": "Tax", "amount": 269317.0, "isTotal": true }
 				],
 				"onTheSpotFees": null,
-				"supplierName": null,
-				"checkInInstructions": null,
-				"remainingRooms": 23,
+				"facility": [
+					{
+						"facility_name": "air conditioning",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Air Conditioning",
+						"extraFee": false
+					},
+					{
+						"facility_name": "bathrobes",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Bathing Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "bathtub",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Bathing Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "coffee/tea maker",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Kitchen Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "complimentary bottled water",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Food & Drink",
+						"extraFee": false
+					},
+					{
+						"facility_name": "daily newspaper",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Entertainment",
+						"extraFee": false
+					},
+					{
+						"facility_name": "desk",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Business Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "DVD/CD player",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Entertainment",
+						"extraFee": false
+					},
+					{
+						"facility_name": "flat screen television",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Entertainment",
+						"extraFee": false
+					},
+					{
+						"facility_name": "hair dryer",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "in room safe",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "internet access  LAN (complimentary)",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Internet Access",
+						"extraFee": false
+					},
+					{
+						"facility_name": "internet access  wireless (complimentary)",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Internet Access",
+						"extraFee": false
+					},
+					{
+						"facility_name": "mini bar",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Kitchen Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "satellite/cable TV",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Television",
+						"extraFee": false
+					},
+					{
+						"facility_name": "separate shower and tub",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Bathing Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "shower",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Bathing Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "smoking policy  non-smoking available",
+						"type": "Policy",
+						"subtype": "Other",
+						"category": "Hotel Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "Breakfast",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Benefit",
+						"extraFee": false
+					}
+				],
+				"grossPriceIDR": 0.0,
+				"totalDiscountIDR": 0.0,
+				"totalNightPriceIDR": 0.0,
+				"netPriceIDR": 0.0,
+				"commPriceIDR": 0.0,
+				"totalAdditionalFeeIDR": 0.0,
+				"pointRewardCount": 0,
+				"remainingRooms": 2,
+				"normalBeddings": 1,
+				"extraBeds": 0
+			},
+			{
+				"newPrice": 0.0,
+				"code": "AG.c.53832ac0-9ee1-4bd7-9793-0453bf88f386.7502615.2510826.ac60b2af-d480-cbfd-0ce4-afe7b118a9cd.449181595286011128.9.B0081BC71F1612",
+				"name": "Presidential Suites",
+				"rateType": "B2C",
+				"isRefundable": true,
+				"totalDiscount": 0.0,
+				"totalDiscountWithoutCode": 0.0,
+				"totalDiscountWithoutCodeIDR": 0.0,
+				"totalNightPrice": 5926194.0,
+				"netPrice": 7170695.0,
+				"grossPrice": 7170695.0,
+				"priceDifference": 0.0,
+				"commPrice": 0.0,
+				"totalAdditionalFee": 1244501.0,
+				"currency": null,
+				"bfType": "Breakfast",
+				"bfTypeName": "Breakfast",
+				"roomType": {
+					"sequence": 0,
+					"serviceNo": null,
+					"typeCode": "2143378",
+					"typeName": "Bedroom 1: :1 king bed;Bedroom 2: :1 single bed",
+					"typeDescription": "Availability of the bed type can only be confirmed on check in",
+					"reqBedChild": false,
+					"roomCount": 1,
+					"maxOccupancy": 1,
+					"adultCount": 1,
+					"childCount": 0,
+					"totalPrice": 7170695.0,
+					"totalDiscount": 0.0,
+					"totalNightPrice": 5926194.0,
+					"avgNightPrice": 5926194.0,
+					"nettPrice": 5926194.0,
+					"commPrice": 0.0,
+					"grossPrice": 7170695.0,
+					"grossPriceIDR": 0.0,
+					"totalPriceIDR": 0.0,
+					"totalDiscountIDR": 0.0,
+					"totalNightPriceIDR": 0.0,
+					"avgNightPriceIDR": 0.0,
+					"nettPriceIDR": 0.0,
+					"commPriceIDR": 0.0,
+					"rate": [
+						{
+							"offset": 1,
+							"nightPrice": 5926194.0,
+							"roomRate": [
+								{
+									"no": 1,
+									"adultCount": 1,
+									"childCount": 0,
+									"childAge1": 0,
+									"childAge2": 0,
+									"roomPrice": 5926194.0,
+									"minstayPrice": 0.0,
+									"compulsoryPrice": 0.0,
+									"supplementPrice": 0.0,
+									"promotionBfPrice": 0.0,
+									"earlyBirdDiscount": 0.0,
+									"commissionPrice": 0.0,
+									"sRoomType": null,
+									"roomPriceIDR": 0.0,
+									"minstayPriceIDR": 0.0,
+									"compulsoryPriceIDR": 0.0,
+									"supplementPriceIDR": 0.0,
+									"promotionBfPriceIDR": 0.0,
+									"earlyBirdDiscountIDR": 0.0,
+									"commissionPriceIDR": 0.0
+								}
+							],
+							"roomRateInfo": {
+								"childMinAge": 0,
+								"childMaxAge": 0,
+								"minStayDay": 0,
+								"minStayType": "NONE",
+								"minStayRate": 0.0,
+								"promotionName": "NONE",
+								"promotionValue": false,
+								"promoCode": null
+							},
+							"nightPriceIDR": 0.0
+						}
+					],
+					"guests": null,
+					"pointRewardCount": 0
+				},
+				"roomList": null,
+				"cancellationPolicies": [
+					{
+						"exCancelDays": 2,
+						"cancelDateFrom": "2021-07-27 00:00:00",
+						"cancelDateTo": "2021-07-27 23:59:59",
+						"roomCategoryCode": null,
+						"roomCategoryName": null,
+						"remarks": null,
+						"chargeType": "Night/Room",
+						"currency": "IDR",
+						"chargeRate": 0.0,
+						"description": "Cancellation between July 27, 2021 00:00:00 and July 27, 2021 23:59:59 will be charged at 0 Night/Room"
+					},
+					{
+						"exCancelDays": 1,
+						"cancelDateFrom": "2021-07-28 00:00:00",
+						"cancelDateTo": "2021-07-28 23:59:59",
+						"roomCategoryCode": null,
+						"roomCategoryName": null,
+						"remarks": null,
+						"chargeType": "Night/Room",
+						"currency": "IDR",
+						"chargeRate": 1.0,
+						"description": "Cancellation between July 28, 2021 00:00:00 and July 28, 2021 23:59:59 will be charged at 1 Night/Room"
+					},
+					{
+						"exCancelDays": 0,
+						"cancelDateFrom": "2021-07-29 00:00:00",
+						"cancelDateTo": "2021-07-30 00:00:00",
+						"roomCategoryCode": null,
+						"roomCategoryName": null,
+						"remarks": null,
+						"chargeType": "Night/Room",
+						"currency": "IDR",
+						"chargeRate": 1.0,
+						"description": "Cancellation after July 29, 2021 00:00:00 will be charged at 1 Night/Room"
+					}
+				],
+				"roomImage": [
+					"http://pix6.agoda.net/hotelImages/5900947/70002199/d7b0035baa2b9793a3dcea87fd91fd18.jpg?s=312x"
+				],
+				"additionalFees": [
+					{ "type": "Fees", "amount": 510000.0, "isTotal": true },
+					{ "type": "Tax", "amount": 734501.0, "isTotal": true }
+				],
+				"onTheSpotFees": null,
+				"facility": [
+					{
+						"facility_name": "additional bathroom",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Bathing Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "air conditioning",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Air Conditioning",
+						"extraFee": false
+					},
+					{
+						"facility_name": "bathrobes",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Bathing Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "blackout curtains",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "carpeting",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "coffee/tea maker",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Kitchen Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "complimentary bottled water",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Food & Drink",
+						"extraFee": false
+					},
+					{
+						"facility_name": "daily newspaper",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Entertainment",
+						"extraFee": false
+					},
+					{
+						"facility_name": "desk",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Business Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "dishwasher",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Kitchen Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "DVD/CD player",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Entertainment",
+						"extraFee": false
+					},
+					{
+						"facility_name": "flat screen television",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Entertainment",
+						"extraFee": false
+					},
+					{
+						"facility_name": "full kitchen",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Kitchen Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "hair dryer",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "in room safe",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "internet access  wireless (complimentary)",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Internet Access",
+						"extraFee": false
+					},
+					{
+						"facility_name": "ironing facilities",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "kitchenette",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Kitchen Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "kitchenware",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Kitchen Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "microwave",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Kitchen Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "mini bar",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Kitchen Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "mirror",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "satellite/cable TV",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Television",
+						"extraFee": false
+					},
+					{
+						"facility_name": "seating area",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "separate living room",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "shower",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Bathing Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "slippers",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "smoking policy  non-smoking available",
+						"type": "Policy",
+						"subtype": "Other",
+						"category": "Hotel Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "sofa",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "soundproofing",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "telephone",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Room Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "toiletries",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Bathing Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "towels",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Bathing Facility",
+						"extraFee": false
+					},
+					{
+						"facility_name": "wake-up service",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Service",
+						"extraFee": false
+					},
+					{
+						"facility_name": "Breakfast",
+						"type": "RoomAmenity",
+						"subtype": "RoomAmenity",
+						"category": "Benefit",
+						"extraFee": false
+					}
+				],
+				"grossPriceIDR": 0.0,
+				"totalDiscountIDR": 0.0,
+				"totalNightPriceIDR": 0.0,
+				"netPriceIDR": 0.0,
+				"commPriceIDR": 0.0,
+				"totalAdditionalFeeIDR": 0.0,
+				"pointRewardCount": 0,
+				"remainingRooms": 1,
 				"normalBeddings": 1,
 				"extraBeds": 0
 			}
 		],
-		"heroImage": "http://pix5.agoda.net/hotelimages/477838/-1/bb940efd1dbfd143dbad3db11977d28f.jpg?s=312x",
+		"heroImage": "http://pix5.agoda.net/hotelimages/231/2313/2313_16011308300039065452.jpg?s=800x",
 		"images": [
-			"http://pix5.agoda.net/hotelimages/477838/-1/59b4d305645c7e66b7fc426919fa1deb.jpg?s=312x",
-			"http://pix5.agoda.net/hotelimages/477/477838/477838_16071410310044664709.jpg?s=312x",
-			"http://pix1.agoda.net/hotelimages/477/477838/477838_16071411090044665988.jpg?s=312x",
-			"http://pix5.agoda.net/hotelimages/477838/-1/bb940efd1dbfd143dbad3db11977d28f.jpg?s=312x",
-			"http://pix1.agoda.net/hotelimages/477/477838/477838_16071412030044667658.jpg?s=312x"
+			"http://pix5.agoda.net/hotelimages/231/2313/2313_16011308300039065452.jpg?s=800x",
+			"http://pix3.agoda.net/hotelimages/231/2313/2313_17021309100050976192.jpg?s=800x",
+			"http://pix4.agoda.net/hotelimages/231/2313/2313_16102019220047983314.jpg?s=800x",
+			"http://pix4.agoda.net/hotelimages/231/2313/2313_16011308240039065377.jpg?s=800x",
+			"http://pix5.agoda.net/hotelimages/231/2313/2313_15082410530034891068.jpg?s=800x",
+			"http://pix3.agoda.net/hotelimages/231/2313/2313_16011309580039067553.jpg?s=800x"
 		],
 		"avail": false,
-		"tripAdvisorRating": 8.9,
-		"tripAdvisorReviewCount": 265,
-		"tripAdvisorRatingUrl": "https://cdn.staticaly.com/gh/bobbyferdi/asset-cdn/e6a513c5/stars/stars-8.9.png",
-		"latitude": -6.23140287,
-		"longitude": 106.819778,
+		"availType": null,
+		"tripAdvisorRating": 8.3,
+		"tripAdvisorReviewCount": 2433,
+		"tripAdvisorRatingUrl": "https://cdn.staticaly.com/gh/bobbyferdi/asset-cdn/e6a513c5/stars/stars-8.3.png",
+		"latitude": -6.22422791,
+		"longitude": 106.839828,
 		"checkInInstructions": "",
-		"specialCheckInInstructions": "",
-		"supplierHotelCode": "477838",
-		"distanceFromLocation": 0.0,
-		"mapChainCode": "CH00009",
-		"chainName": "Four Seasons Hotels and Resorts",
+		"specialCheckInInstructions": null,
+		"supplierHotelCode": "2313",
+		"promos": null,
+		"postalCode": "12870",
+		"specialRequest": null,
+		"mapChainCode": "CH00279",
+		"chainName": "Wyndham Hotels & Resorts",
 		"policy": {
 			"infantAge": 0,
-			"childrenAgeFrom": 0,
-			"childrenAgeTo": 0,
-			"childrenStayFree": false,
+			"childrenAgeFrom": 2,
+			"childrenAgeTo": 5,
+			"childrenStayFree": true,
 			"minGuestAge": 0
 		},
+		"nationalityRestrictions": null,
 		"checkInTime": "02:00 PM",
-		"checkOutTime": "12:00 PM"
+		"checkOutTime": "12:00 PM",
+		"nearbyPlaces": null,
+		"topPlaces": null,
+		"nearbyProperties": null,
+		"distanceFromLocation": 0.0,
+		"gimmickPercentage": 7.0
 	},
-	"priceChanged": false,
-	"pointOfInterests": null,
-	"nearbyPlaces": [
-		{
-			"name": "Rumah Sakit Metropolitan Medical Centre Rsmmc",
-			"distance": 1.88,
-			"distanceUnit": "kilometers to",
-			"infoType": "nearby property",
-			"mapHotelCode": "H01347207",
-			"category": "Hospital or clinic"
-		},
-		{
-			"name": "Brazil Embassy",
-			"distance": 0.86,
-			"distanceUnit": "kilometers",
-			"infoType": "nearby place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "Somali Embassy",
-			"distance": 0.89,
-			"distanceUnit": "kilometers",
-			"infoType": "nearby place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "National Museum",
-			"distance": 6.12,
-			"distanceUnit": "kilometers",
-			"infoType": "top place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "Soekarno-Hatta International Airport (CGK)",
-			"distance": 21.14,
-			"distanceUnit": "kilometers to",
-			"infoType": "nearby property",
-			"mapHotelCode": "H01347207",
-			"category": "Airports",
-			"code": "CGK"
-		},
-		{
-			"name": "EmbassyÂ ofÂ Kuwait",
-			"distance": 0.66,
-			"distanceUnit": "kilometers",
-			"infoType": "nearby place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "Pancoran Statue",
-			"distance": 0.78,
-			"distanceUnit": "kilometers",
-			"infoType": "nearby place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "National Monument",
-			"distance": 6.32,
-			"distanceUnit": "kilometers",
-			"infoType": "top place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "Taman Mini Indonesia Indah",
-			"distance": 11.51,
-			"distanceUnit": "kilometers",
-			"infoType": "top place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "",
-			"distance": 0.0,
-			"distanceUnit": "",
-			"infoType": "nearby property",
-			"mapHotelCode": "H01347207",
-			"category": "Cash withdrawal"
-		},
-		{
-			"name": "Royal Thai Embassy",
-			"distance": 0.91,
-			"distanceUnit": "kilometers",
-			"infoType": "nearby place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "Istiqlal Mosque",
-			"distance": 6.96,
-			"distanceUnit": "kilometers",
-			"infoType": "top place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "Dunia Fantasi Theme Park (Ancol)",
-			"distance": 12.04,
-			"distanceUnit": "kilometers",
-			"infoType": "top place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "Baywalk Pluit  Mall",
-			"distance": 13.87,
-			"distanceUnit": "kilometers",
-			"infoType": "top place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "Halim Perdanakusuma International Airport (HLP)",
-			"distance": 8.25,
-			"distanceUnit": "kilometers to",
-			"infoType": "nearby property",
-			"mapHotelCode": "H01347207",
-			"category": "Airports",
-			"code": "HLP"
-		},
-		{
-			"name": "Plaza Indonesia",
-			"distance": 4.25,
-			"distanceUnit": "kilometers to",
-			"infoType": "nearby property",
-			"mapHotelCode": "H01347207",
-			"category": "Shopping"
-		},
-		{
-			"name": "Circle K",
-			"distance": 0.96,
-			"distanceUnit": "kilometers to",
-			"infoType": "nearby property",
-			"mapHotelCode": "H01347207",
-			"category": "Convenience store"
-		},
-		{
-			"name": "Embassy of Finland",
-			"distance": 0.87,
-			"distanceUnit": "kilometers",
-			"infoType": "nearby place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "Central Park Mall",
-			"distance": 6.85,
-			"distanceUnit": "kilometers",
-			"infoType": "top place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "Waterbom Jakarta",
-			"distance": 15.25,
-			"distanceUnit": "kilometers",
-			"infoType": "top place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "MRT Station Bendungan Hilir",
-			"distance": 1.83,
-			"distanceUnit": "kilometers to",
-			"infoType": "nearby property",
-			"mapHotelCode": "H01347207",
-			"category": "Public transportation"
-		},
-		{
-			"name": "Setiabudi Astra Station",
-			"distance": 2.49,
-			"distanceUnit": "kilometers to",
-			"infoType": "nearby property",
-			"mapHotelCode": "H01347207",
-			"category": "Public transportation"
-		},
-		{
-			"name": "Bellagio Boutique Mall",
-			"distance": 0.58,
-			"distanceUnit": "kilometers",
-			"infoType": "nearby place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "Mega Kuningan Shop",
-			"distance": 0.81,
-			"distanceUnit": "kilometers",
-			"infoType": "nearby place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "Embassy of Peru",
-			"distance": 0.88,
-			"distanceUnit": "kilometers",
-			"infoType": "nearby place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "Embassy of Sweden",
-			"distance": 0.93,
-			"distanceUnit": "kilometers",
-			"infoType": "nearby place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "Plaza Indonesia",
-			"distance": 4.25,
-			"distanceUnit": "kilometers",
-			"infoType": "top place",
-			"mapHotelCode": "H01347207"
-		},
-		{
-			"name": "Jakarta History Museum",
-			"distance": 10.72,
-			"distanceUnit": "kilometers",
-			"infoType": "top place",
-			"mapHotelCode": "H01347207"
-		}
-	],
-	"weather": null,
-	"status": { "success": true, "code": "000", "message": "Success", "type": "SUCCESS" },
-	"timestamp": "2021-06-08 15:52:19.914",
-	"sessionId": "739c5f6a7a25454ab4ef766659cdd755",
-	"processingTime": 499,
-	"processId": "bc5a2ebbb3004a439e03c2107c4b9a51"
+	"Errors": [{ "code": "000", "type": "SUCCESS", "message": "Success" }],
+	"Status": { "Code": "000", "Message": "Success", "Type": "SUCCESS" },
+	"Timestamp": "2021-06-08 18:49:58.403",
+	"SessionId": "76e77d32e2de42949a3e18efdea94f33"
 }
