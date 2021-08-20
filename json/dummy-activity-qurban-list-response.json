@@ -1,39 +1,40 @@
 {
 	"activityList": [
 		{
-			"isDelivery": true,
+			"isDelivery": false,
 			"maxQuota": 10,
 			"availableQuota": 10,
 			"reservedQuota": 0,
 			"dayOfProduction": 0,
-			"animalType": "sheep",
+			"animalType": "goat",
 			"rating": 0.0,
-			"id": "1e6dd0f627284452ae31a455533066e0",
-			"title": "Paket full kambing kecil 2",
+			"id": "0c511d91235841b9bcaaaccda0c64b92",
+			"title": "Paket full kambing besar",
 			"location": {
-				"name": "Rumah potong",
-				"cityCode": "JKT",
+				"name": "Rumah potong hewan",
+				"cityName": "Jakarta",
+				"cityCode": "Jakarta",
 				"countryCode": "ID",
 				"latitude": -5.385663,
 				"longitude": 27.001019
 			},
 			"images": [
-				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//i8g4ikh7suasrwp7sund.jpg",
-				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//hotel/lbwfiw2gs4sba56r4hfj.jpg",
 				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//hotel/sov38zin2ozlyrbinr9j.jpg",
-				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//cgwhpryl4oi7kag0u2ol.jpg"
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//hotel/lbwfiw2gs4sba56r4hfj.jpg",
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//cgwhpryl4oi7kag0u2ol.jpg",
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//i8g4ikh7suasrwp7sund.jpg"
 			],
 			"marketType": "Domestic",
 			"currency": "IDR",
 			"convertCurrency": null,
 			"package": {
-				"id": "0705d2937a024d168e1dbbff0d5e835c",
+				"id": "578a082c78c04f0dac1d1771de53d4a5",
 				"description": "Number of animal",
-				"price": 20000.0,
+				"price": 5000000.0,
 				"NTA": 0.0,
-				"convertPrice": 20000.0,
+				"convertPrice": 5000000.0,
 				"maintenanceFeePercentage": 7.0,
-				"maintenanceFee": 1400.0,
+				"maintenanceFee": 350000.0,
 				"packageNotes": []
 			},
 			"supplier": {
@@ -51,20 +52,67 @@
 			"availableQuota": 10,
 			"reservedQuota": 0,
 			"dayOfProduction": 0,
-			"animalType": "sheep",
+			"animalType": "cow",
 			"rating": 0.0,
-			"id": "95e6a613621e4947847497ba96d10dc0",
-			"title": "Paket full kambing kecil 2",
+			"id": "985b130768c24d52bc16ab80a46c90d9",
+			"title": "Paket lengkap sapi kecil",
 			"location": {
-				"name": "Rumah potong",
-				"cityCode": "JKT",
+				"name": "Rumah potong hewan",
+				"cityName": "Jakarta",
+				"cityCode": "Jakarta",
 				"countryCode": "ID",
 				"latitude": -5.385663,
 				"longitude": 27.001019
 			},
 			"images": [
-				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//cgwhpryl4oi7kag0u2ol.jpg",
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//i8g4ikh7suasrwp7sund.jpg",
 				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//hotel/lbwfiw2gs4sba56r4hfj.jpg",
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//hotel/sov38zin2ozlyrbinr9j.jpg",
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//cgwhpryl4oi7kag0u2ol.jpg"
+			],
+			"marketType": "Domestic",
+			"currency": "IDR",
+			"convertCurrency": null,
+			"package": {
+				"id": "d488356741b3493581fbe09b3d4d1f5e",
+				"description": "Number of animal",
+				"price": 30000000.0,
+				"NTA": 0.0,
+				"convertPrice": 30000000.0,
+				"maintenanceFeePercentage": 7.0,
+				"maintenanceFee": 2100000.0,
+				"packageNotes": []
+			},
+			"supplier": {
+				"id": null,
+				"name": "Head Quarter",
+				"telephone": null,
+				"email": null,
+				"address": "Jl. Pasar Rumput 128A, DKI Jakarta, Indonesia"
+			},
+			"tags": []
+		},
+		{
+			"isDelivery": false,
+			"maxQuota": 10,
+			"availableQuota": 10,
+			"reservedQuota": 0,
+			"dayOfProduction": 0,
+			"animalType": "goat",
+			"rating": 0.0,
+			"id": "a35c05ba5f9241c8be4c695bf05f7e15",
+			"title": "Paket full kambing terbaik",
+			"location": {
+				"name": "Rumah potong hewan",
+				"cityName": "Jakarta",
+				"cityCode": "Jakarta",
+				"countryCode": "ID",
+				"latitude": -5.385663,
+				"longitude": 27.001019
+			},
+			"images": [
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//hotel/lbwfiw2gs4sba56r4hfj.jpg",
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//cgwhpryl4oi7kag0u2ol.jpg",
 				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//hotel/sov38zin2ozlyrbinr9j.jpg",
 				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//i8g4ikh7suasrwp7sund.jpg"
 			],
@@ -72,13 +120,197 @@
 			"currency": "IDR",
 			"convertCurrency": null,
 			"package": {
-				"id": "06dbf1676e8140f39b4affc94cb57af4",
+				"id": "1fcb2c074fd94c8e8462549300213321",
 				"description": "Number of animal",
-				"price": 20000.0,
+				"price": 2500000.0,
 				"NTA": 0.0,
-				"convertPrice": 20000.0,
+				"convertPrice": 2500000.0,
 				"maintenanceFeePercentage": 7.0,
-				"maintenanceFee": 1400.0,
+				"maintenanceFee": 175000.0,
+				"packageNotes": []
+			},
+			"supplier": {
+				"id": null,
+				"name": "Head Quarter",
+				"telephone": null,
+				"email": null,
+				"address": "Jl. Pasar Rumput 128A, DKI Jakarta, Indonesia"
+			},
+			"tags": []
+		},
+		{
+			"isDelivery": false,
+			"maxQuota": 10,
+			"availableQuota": 10,
+			"reservedQuota": 0,
+			"dayOfProduction": 0,
+			"animalType": "cow",
+			"rating": 0.0,
+			"id": "a8190017508a42f8ad7a63ae2543d9a2",
+			"title": "Paket full sapi terbaik",
+			"location": {
+				"name": "Rumah potong hewan",
+				"cityName": "Jakarta",
+				"cityCode": "Jakarta",
+				"countryCode": "ID",
+				"latitude": -5.385663,
+				"longitude": 27.001019
+			},
+			"images": [
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//cgwhpryl4oi7kag0u2ol.jpg",
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//hotel/lbwfiw2gs4sba56r4hfj.jpg",
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//i8g4ikh7suasrwp7sund.jpg",
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//hotel/sov38zin2ozlyrbinr9j.jpg"
+			],
+			"marketType": "Domestic",
+			"currency": "IDR",
+			"convertCurrency": null,
+			"package": {
+				"id": "ba9ce32128d447d59c0adcaafc0dc41a",
+				"description": "Number of animal",
+				"price": 25000000.0,
+				"NTA": 0.0,
+				"convertPrice": 25000000.0,
+				"maintenanceFeePercentage": 7.0,
+				"maintenanceFee": 1750000.0,
+				"packageNotes": []
+			},
+			"supplier": {
+				"id": null,
+				"name": "Head Quarter",
+				"telephone": null,
+				"email": null,
+				"address": "Jl. Pasar Rumput 128A, DKI Jakarta, Indonesia"
+			},
+			"tags": []
+		},
+		{
+			"isDelivery": false,
+			"maxQuota": 10,
+			"availableQuota": 10,
+			"reservedQuota": 0,
+			"dayOfProduction": 0,
+			"animalType": "sheep",
+			"rating": 0.0,
+			"id": "b2132fd2c1cc4becbe0543bce4402fd9",
+			"title": "Paket full domba terbaik",
+			"location": {
+				"name": "Rumah potong hewan",
+				"cityName": "Jakarta",
+				"cityCode": "Jakarta",
+				"countryCode": "ID",
+				"latitude": -5.385663,
+				"longitude": 27.001019
+			},
+			"images": [
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//i8g4ikh7suasrwp7sund.jpg",
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//cgwhpryl4oi7kag0u2ol.jpg",
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//hotel/lbwfiw2gs4sba56r4hfj.jpg",
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//hotel/sov38zin2ozlyrbinr9j.jpg"
+			],
+			"marketType": "Domestic",
+			"currency": "IDR",
+			"convertCurrency": null,
+			"package": {
+				"id": "b8138a025db14821987481095a2e6337",
+				"description": "Number of animal",
+				"price": 3000000.0,
+				"NTA": 0.0,
+				"convertPrice": 3000000.0,
+				"maintenanceFeePercentage": 7.0,
+				"maintenanceFee": 210000.0,
+				"packageNotes": []
+			},
+			"supplier": {
+				"id": null,
+				"name": "Head Quarter",
+				"telephone": null,
+				"email": null,
+				"address": "Jl. Pasar Rumput 128A, DKI Jakarta, Indonesia"
+			},
+			"tags": []
+		},
+		{
+			"isDelivery": true,
+			"maxQuota": 10,
+			"availableQuota": 10,
+			"reservedQuota": 0,
+			"dayOfProduction": 0,
+			"animalType": "cow",
+			"rating": 0.0,
+			"id": "bd0460699c6346e58a497909a99a790c",
+			"title": "Paket lengkap sapi",
+			"location": {
+				"name": "Rumah potong hewan",
+				"cityName": "Jakarta",
+				"cityCode": "Jakarta",
+				"countryCode": "ID",
+				"latitude": -5.385663,
+				"longitude": 27.001019
+			},
+			"images": [
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//cgwhpryl4oi7kag0u2ol.jpg",
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//hotel/lbwfiw2gs4sba56r4hfj.jpg",
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//i8g4ikh7suasrwp7sund.jpg",
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//hotel/sov38zin2ozlyrbinr9j.jpg"
+			],
+			"marketType": "Domestic",
+			"currency": "IDR",
+			"convertCurrency": null,
+			"package": {
+				"id": "b9d082bb880c4497b284ae6c71d1fab4",
+				"description": "Number of animal",
+				"price": 50000000.0,
+				"NTA": 0.0,
+				"convertPrice": 50000000.0,
+				"maintenanceFeePercentage": 7.0,
+				"maintenanceFee": 3500000.0,
+				"packageNotes": []
+			},
+			"supplier": {
+				"id": null,
+				"name": "Head Quarter",
+				"telephone": null,
+				"email": null,
+				"address": "Jl. Pasar Rumput 128A, DKI Jakarta, Indonesia"
+			},
+			"tags": []
+		},
+		{
+			"isDelivery": false,
+			"maxQuota": 10,
+			"availableQuota": 10,
+			"reservedQuota": 0,
+			"dayOfProduction": 0,
+			"animalType": "cow",
+			"rating": 0.0,
+			"id": "cc6cb42df591467395064fcdf408c745",
+			"title": "Paket full sapi limosin",
+			"location": {
+				"name": "Rumah potong hewan",
+				"cityName": "Jakarta",
+				"cityCode": "Jakarta",
+				"countryCode": "ID",
+				"latitude": -5.385663,
+				"longitude": 27.001019
+			},
+			"images": [
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//i8g4ikh7suasrwp7sund.jpg",
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//hotel/lbwfiw2gs4sba56r4hfj.jpg",
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//hotel/sov38zin2ozlyrbinr9j.jpg",
+				"https://res.cloudinary.com/umrohcom/image/upload/c_fill,f_auto,g_face,b_rgb:000000,dpr_2.0,h_391,w_627,q_80,fl_progressive/v1//cgwhpryl4oi7kag0u2ol.jpg"
+			],
+			"marketType": "Domestic",
+			"currency": "IDR",
+			"convertCurrency": null,
+			"package": {
+				"id": "9eadac2159a346648e859e1d3b8f473d",
+				"description": "Number of animal",
+				"price": 150000000.0,
+				"NTA": 0.0,
+				"convertPrice": 150000000.0,
+				"maintenanceFeePercentage": 7.0,
+				"maintenanceFee": 10500000.0,
 				"packageNotes": []
 			},
 			"supplier": {
